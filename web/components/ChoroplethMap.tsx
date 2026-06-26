@@ -534,7 +534,11 @@ export function ChoroplethMap({
                         : "text-ink bg-surface/55 border-line/70 shadow-sm group-hover:border-gold group-hover:bg-surface/70"
                     }`}
                   >
-                    <div className="font-sans text-[10px] leading-tight whitespace-nowrap max-w-[120px] truncate">
+                    <div
+                      className={`font-sans text-[10px] leading-tight whitespace-nowrap max-w-[120px] truncate ${
+                        active ? "text-black" : ""
+                      }`}
+                    >
                       {f.properties.district}
                     </div>
                     <div

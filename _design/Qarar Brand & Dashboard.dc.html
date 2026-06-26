@@ -1,0 +1,604 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<meta name="design_doc_mode" content="canvas">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Serif:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  * { box-sizing: border-box; }
+  body { margin: 0; font-family: 'IBM Plex Sans', sans-serif; -webkit-font-smoothing: antialiased; }
+</style>
+</helmet>
+
+<!-- ============ A · WORDMARK LIGHT ============ -->
+<div style="position:absolute; left:0; top:0; width:580px;">
+  <div data-drags-parent="1" style="font:500 11px 'IBM Plex Mono',monospace; letter-spacing:0.06em; color:#8A887F; margin-bottom:10px;">WORDMARK — LIGHT</div>
+  <div style="width:580px; height:380px; background:#FAFAF7; border:1px solid #E6E3DA; border-radius:2px; box-shadow:0 1px 3px rgba(0,0,0,.08); display:flex; flex-direction:column; align-items:center; justify-content:center; gap:18px;">
+    <div style="display:flex; align-items:center; gap:18px;">
+      <svg width="56" height="56" viewBox="0 0 40 40" fill="none">
+        <rect x="3.5" y="3.5" width="33" height="33" rx="7" stroke="#0B0B0A" stroke-width="2.4"/>
+        <line x1="3.5" y1="15" x2="36.5" y2="15" stroke="#0B0B0A" stroke-width="1.4" opacity="0.4"/>
+        <line x1="25" y1="3.5" x2="25" y2="36.5" stroke="#0B0B0A" stroke-width="1.4" opacity="0.4"/>
+        <path d="M25 8 L32 15 L25 22 L18 15 Z" fill="#B0892B"/>
+      </svg>
+      <div style="font:600 62px 'IBM Plex Serif',serif; color:#0B0B0A; letter-spacing:-0.01em; line-height:1;">Qarar</div>
+    </div>
+    <div style="display:flex; align-items:center; gap:14px;">
+      <div style="font:500 26px 'IBM Plex Sans Arabic',sans-serif; color:#8C6A1C;">قرار</div>
+      <div style="width:1px; height:18px; background:#D8D5CC;"></div>
+      <div style="font:500 12px 'IBM Plex Mono',monospace; letter-spacing:0.22em; color:#6C6A62;">DECISION&nbsp;&nbsp;INTELLIGENCE</div>
+    </div>
+  </div>
+</div>
+
+<!-- ============ B · WORDMARK DARK ============ -->
+<div style="position:absolute; left:660px; top:0; width:580px;">
+  <div data-drags-parent="1" style="font:500 11px 'IBM Plex Mono',monospace; letter-spacing:0.06em; color:#8A887F; margin-bottom:10px;">WORDMARK — DARK</div>
+  <div style="width:580px; height:380px; background:#0A0A0A; border:1px solid #242422; border-radius:2px; box-shadow:0 1px 3px rgba(0,0,0,.2); display:flex; flex-direction:column; align-items:center; justify-content:center; gap:18px;">
+    <div style="display:flex; align-items:center; gap:18px;">
+      <svg width="56" height="56" viewBox="0 0 40 40" fill="none">
+        <rect x="3.5" y="3.5" width="33" height="33" rx="7" stroke="#F4F2EA" stroke-width="2.4"/>
+        <line x1="3.5" y1="15" x2="36.5" y2="15" stroke="#F4F2EA" stroke-width="1.4" opacity="0.4"/>
+        <line x1="25" y1="3.5" x2="25" y2="36.5" stroke="#F4F2EA" stroke-width="1.4" opacity="0.4"/>
+        <path d="M25 8 L32 15 L25 22 L18 15 Z" fill="#F0C24B"/>
+      </svg>
+      <div style="font:600 62px 'IBM Plex Serif',serif; color:#F4F2EA; letter-spacing:-0.01em; line-height:1;">Qarar</div>
+    </div>
+    <div style="display:flex; align-items:center; gap:14px;">
+      <div style="font:500 26px 'IBM Plex Sans Arabic',sans-serif; color:#EAB94E;">قرار</div>
+      <div style="width:1px; height:18px; background:#33322E;"></div>
+      <div style="font:500 12px 'IBM Plex Mono',monospace; letter-spacing:0.22em; color:#9A988F;">DECISION&nbsp;&nbsp;INTELLIGENCE</div>
+    </div>
+  </div>
+</div>
+
+<!-- ============ C · LOCKUPS STRIP ============ -->
+<div style="position:absolute; left:0; top:440px; width:1240px;">
+  <div data-drags-parent="1" style="font:500 11px 'IBM Plex Mono',monospace; letter-spacing:0.06em; color:#8A887F; margin-bottom:10px;">MARK & LOCKUP VARIATIONS</div>
+  <div style="width:1240px; height:230px; display:grid; grid-template-columns:repeat(4,1fr); gap:20px;">
+
+    <div style="background:#FAFAF7; border:1px solid #E6E3DA; border-radius:2px; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:14px;">
+      <svg width="58" height="58" viewBox="0 0 40 40" fill="none">
+        <rect x="3.5" y="3.5" width="33" height="33" rx="7" stroke="#0B0B0A" stroke-width="2.4"/>
+        <line x1="3.5" y1="15" x2="36.5" y2="15" stroke="#0B0B0A" stroke-width="1.4" opacity="0.4"/>
+        <line x1="25" y1="3.5" x2="25" y2="36.5" stroke="#0B0B0A" stroke-width="1.4" opacity="0.4"/>
+        <path d="M25 8 L32 15 L25 22 L18 15 Z" fill="#B0892B"/>
+      </svg>
+      <div style="font:500 10px 'IBM Plex Mono',monospace; letter-spacing:0.14em; color:#8A887F;">MARK · LIGHT</div>
+    </div>
+
+    <div style="background:#0A0A0A; border:1px solid #242422; border-radius:2px; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:14px;">
+      <svg width="58" height="58" viewBox="0 0 40 40" fill="none">
+        <rect x="3.5" y="3.5" width="33" height="33" rx="7" stroke="#F4F2EA" stroke-width="2.4"/>
+        <line x1="3.5" y1="15" x2="36.5" y2="15" stroke="#F4F2EA" stroke-width="1.4" opacity="0.4"/>
+        <line x1="25" y1="3.5" x2="25" y2="36.5" stroke="#F4F2EA" stroke-width="1.4" opacity="0.4"/>
+        <path d="M25 8 L32 15 L25 22 L18 15 Z" fill="#F0C24B"/>
+      </svg>
+      <div style="font:500 10px 'IBM Plex Mono',monospace; letter-spacing:0.14em; color:#7A7872;">MARK · DARK</div>
+    </div>
+
+    <div style="background:#B0892B; border:1px solid #9A7724; border-radius:2px; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:14px;">
+      <svg width="58" height="58" viewBox="0 0 40 40" fill="none">
+        <rect x="3.5" y="3.5" width="33" height="33" rx="7" stroke="#1A1407" stroke-width="2.4"/>
+        <line x1="3.5" y1="15" x2="36.5" y2="15" stroke="#1A1407" stroke-width="1.4" opacity="0.45"/>
+        <line x1="25" y1="3.5" x2="25" y2="36.5" stroke="#1A1407" stroke-width="1.4" opacity="0.45"/>
+        <path d="M25 8 L32 15 L25 22 L18 15 Z" fill="#1A1407"/>
+      </svg>
+      <div style="font:500 10px 'IBM Plex Mono',monospace; letter-spacing:0.14em; color:#3A2E10;">MARK · ON GOLD</div>
+    </div>
+
+    <div style="background:#0A0A0A; border:1px solid #242422; border-radius:2px; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:8px;">
+      <div style="font:600 40px 'IBM Plex Serif',serif; color:#F4F2EA; line-height:1;">Qarar</div>
+      <div style="font:500 22px 'IBM Plex Sans Arabic',sans-serif; color:#EAB94E;">قرار</div>
+      <div style="font:500 9px 'IBM Plex Mono',monospace; letter-spacing:0.18em; color:#7A7872; margin-top:4px;">ARABIC LOCKUP</div>
+    </div>
+
+  </div>
+</div>
+
+<!-- ============ E · DASHBOARD LIGHT ============ -->
+<div style="position:absolute; left:0; top:760px; width:1280px;">
+  <div data-drags-parent="1" style="font:500 11px 'IBM Plex Mono',monospace; letter-spacing:0.06em; color:#8A887F; margin-bottom:10px;">HERO DASHBOARD — LIGHT</div>
+  <div style="--bg:#FAFAF7; --surface:#FFFFFF; --cardAlt:#F6F4ED; --text:#0B0B0A; --text2:#6C6A62; --text3:#9A988F; --border:#E6E3DA; --hair:#EFEDE5; --gold:#B0892B; --goldDeep:#8C6A1C; --goldTint:#F4E9C9; --onGold:#FFFFFF; width:1280px; height:720px; background:var(--bg); color:var(--text); border:1px solid var(--border); border-radius:3px; box-shadow:0 2px 8px rgba(0,0,0,.08); overflow:hidden; display:flex; flex-direction:column; font-family:'IBM Plex Sans',sans-serif;">
+
+    <!-- topbar -->
+    <div style="height:54px; flex:none; display:flex; align-items:center; justify-content:space-between; padding:0 20px; border-bottom:1px solid var(--border); background:var(--surface);">
+      <div style="display:flex; align-items:center; gap:12px;">
+        <svg width="26" height="26" viewBox="0 0 40 40" fill="none">
+          <rect x="3.5" y="3.5" width="33" height="33" rx="7" stroke="var(--text)" stroke-width="2.4"/>
+          <line x1="3.5" y1="15" x2="36.5" y2="15" stroke="var(--text)" stroke-width="1.4" opacity="0.4"/>
+          <line x1="25" y1="3.5" x2="25" y2="36.5" stroke="var(--text)" stroke-width="1.4" opacity="0.4"/>
+          <path d="M25 8 L32 15 L25 22 L18 15 Z" fill="var(--gold)"/>
+        </svg>
+        <div style="font:600 20px 'IBM Plex Serif',serif; line-height:1;">Qarar</div>
+        <div style="font:500 14px 'IBM Plex Sans Arabic',sans-serif; color:var(--goldDeep);">قرار</div>
+        <div style="width:1px; height:18px; background:var(--border); margin:0 4px;"></div>
+        <div style="font:400 12px 'IBM Plex Mono',monospace; color:var(--text2);">Abu Dhabi · decision intelligence</div>
+      </div>
+      <div style="display:flex; align-items:center; gap:14px;">
+        <div style="font:400 11px 'IBM Plex Mono',monospace; color:var(--text3);">Live municipal data · FY2025</div>
+        <div style="display:flex; border:1px solid var(--border); border-radius:6px; overflow:hidden;">
+          <div style="font:500 11px 'IBM Plex Mono',monospace; padding:6px 12px; background:var(--text); color:var(--bg);">Map</div>
+          <div style="font:500 11px 'IBM Plex Mono',monospace; padding:6px 12px; color:var(--text2);">Table</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- body -->
+    <div style="flex:1; display:flex; min-height:0;">
+
+      <!-- MAP -->
+      <div style="flex:0 0 60%; position:relative; border-right:1px solid var(--border); background:var(--bg);">
+        {{ mapLight }}
+        <!-- legend -->
+        <div style="position:absolute; left:18px; bottom:18px; background:var(--surface); border:1px solid var(--border); border-radius:6px; padding:12px 14px; display:flex; flex-direction:column; gap:9px; box-shadow:0 1px 4px rgba(0,0,0,.06);">
+          <div style="display:flex; align-items:center; gap:9px;">
+            <span style="width:7px; height:7px; border-radius:50%; background:var(--text2); display:inline-block;"></span>
+            <span style="font:400 11px 'IBM Plex Mono',monospace; color:var(--text2);">Existing amenity</span>
+          </div>
+          <div style="display:flex; align-items:center; gap:9px;">
+            <span style="width:11px; height:11px; border-radius:2px; background:var(--goldTint); border:1.5px solid var(--gold); display:inline-block;"></span>
+            <span style="font:400 11px 'IBM Plex Mono',monospace; color:var(--text2);">Biggest service gap</span>
+          </div>
+          <div style="display:flex; align-items:center; gap:9px;">
+            <span style="width:11px; height:11px; border-radius:50%; background:var(--gold); border:2px solid var(--surface); box-shadow:0 0 0 1px var(--gold); display:inline-block;"></span>
+            <span style="font:400 11px 'IBM Plex Mono',monospace; color:var(--text2);">Recommended parcel</span>
+          </div>
+        </div>
+        <!-- map title chip -->
+        <div style="position:absolute; left:18px; top:18px; background:var(--surface); border:1px solid var(--border); border-radius:6px; padding:7px 12px; box-shadow:0 1px 4px rgba(0,0,0,.06);">
+          <div style="font:500 11px 'IBM Plex Mono',monospace; color:var(--text); letter-spacing:0.04em;">ABU DHABI · 11 DISTRICTS · 142 AMENITIES</div>
+        </div>
+      </div>
+
+      <!-- BRIEF -->
+      <div style="flex:1; min-width:0; padding:13px 22px; display:flex; flex-direction:column; gap:7px; background:var(--surface); overflow:hidden;">
+
+        <div style="display:flex; align-items:center; justify-content:space-between;">
+          <div style="display:inline-flex; align-items:center; gap:8px; border:1px solid var(--gold); border-radius:20px; padding:4px 11px;">
+            <span style="width:6px; height:6px; border-radius:50%; background:var(--gold); display:inline-block;"></span>
+            <span style="font:500 11px 'IBM Plex Mono',monospace; color:var(--goldDeep); letter-spacing:0.02em;">AI agent · 5 tool calls</span>
+          </div>
+          <span style="font:400 11px 'IBM Plex Mono',monospace; color:var(--text3);">conf. 0.91</span>
+        </div>
+
+        <div>
+          <div style="font:400 11px 'IBM Plex Mono',monospace; color:var(--text3); letter-spacing:0.08em; margin-bottom:6px;">RECOMMENDATION</div>
+          <div style="font:600 23px 'IBM Plex Serif',serif; line-height:1.2; letter-spacing:-0.01em;">Build a community health &amp; services hub in <span style="color:var(--goldDeep);">Al Shamkha</span>.</div>
+          <div style="font:400 13px 'IBM Plex Sans',sans-serif; color:var(--text2); margin-top:7px; line-height:1.45;">Highest unmet demand in the emirate — <span style="color:var(--text); font-weight:600;">38,000</span> residents served by a single clinic.</div>
+        </div>
+
+        <!-- REASONING — hero -->
+        <div style="border-top:1px solid var(--hair); padding-top:9px;">
+          <div style="font:400 11px 'IBM Plex Mono',monospace; color:var(--text3); letter-spacing:0.08em; margin-bottom:8px;">REASONING — HOW THE AGENT DECIDED</div>
+          <div style="display:flex; flex-direction:column; gap:0;">
+
+            <div style="display:flex; gap:13px;">
+              <div style="display:flex; flex-direction:column; align-items:center;">
+                <div style="width:22px; height:22px; border-radius:50%; background:var(--gold); color:var(--onGold); font:600 11px 'IBM Plex Mono',monospace; display:flex; align-items:center; justify-content:center; flex:none;">1</div>
+                <div style="width:1.5px; flex:1; background:var(--hair); margin:2px 0;"></div>
+              </div>
+              <div style="padding-bottom:7px;">
+                <div style="font:600 13px 'IBM Plex Sans',sans-serif; line-height:1.3;">Mapped demand against supply</div>
+                <div style="font:400 12px 'IBM Plex Sans',sans-serif; color:var(--text2); line-height:1.4; margin-top:2px;">142 amenities across 11 districts, weighted by population density.</div>
+              </div>
+            </div>
+
+            <div style="display:flex; gap:13px;">
+              <div style="display:flex; flex-direction:column; align-items:center;">
+                <div style="width:22px; height:22px; border-radius:50%; background:var(--gold); color:var(--onGold); font:600 11px 'IBM Plex Mono',monospace; display:flex; align-items:center; justify-content:center; flex:none;">2</div>
+                <div style="width:1.5px; flex:1; background:var(--hair); margin:2px 0;"></div>
+              </div>
+              <div style="padding-bottom:7px;">
+                <div style="font:600 13px 'IBM Plex Sans',sans-serif; line-height:1.3;">Flagged the widest gap</div>
+                <div style="font:400 12px 'IBM Plex Sans',sans-serif; color:var(--text2); line-height:1.4; margin-top:2px;">Al Shamkha: 38k residents, 1 clinic — the emirate's highest unmet demand.</div>
+              </div>
+            </div>
+
+            <div style="display:flex; gap:13px;">
+              <div style="display:flex; flex-direction:column; align-items:center;">
+                <div style="width:22px; height:22px; border-radius:50%; background:var(--gold); color:var(--onGold); font:600 11px 'IBM Plex Mono',monospace; display:flex; align-items:center; justify-content:center; flex:none;">3</div>
+                <div style="width:1.5px; flex:1; background:var(--hair); margin:2px 0;"></div>
+              </div>
+              <div style="padding-bottom:7px;">
+                <div style="font:600 13px 'IBM Plex Sans',sans-serif; line-height:1.3;">Found buildable land</div>
+                <div style="font:400 12px 'IBM Plex Sans',sans-serif; color:var(--text2); line-height:1.4; margin-top:2px;">Filtered municipal registry for vacant parcels within 600 m of transit.</div>
+              </div>
+            </div>
+
+            <div style="display:flex; gap:13px;">
+              <div style="display:flex; flex-direction:column; align-items:center;">
+                <div style="width:22px; height:22px; border-radius:50%; background:var(--gold); color:var(--onGold); font:600 11px 'IBM Plex Mono',monospace; display:flex; align-items:center; justify-content:center; flex:none;">4</div>
+              </div>
+              <div>
+                <div style="font:600 13px 'IBM Plex Sans',sans-serif; line-height:1.3;">Ranked the best site</div>
+                <div style="font:400 12px 'IBM Plex Sans',sans-serif; color:var(--text2); line-height:1.4; margin-top:2px;">Scored parcel <span style="color:var(--goldDeep); font-weight:600;">P-207</span> top on access, cost &amp; zoning fit.</div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+        <!-- parcel card -->
+        <div style="border:1px solid var(--border); border-radius:8px; padding:11px 14px; background:var(--cardAlt);">
+          <div style="display:flex; align-items:center; justify-content:space-between; margin-bottom:10px;">
+            <div style="font:600 14px 'IBM Plex Sans',sans-serif;">Parcel <span style="color:var(--goldDeep);">P-207</span> · Al Shamkha</div>
+            <div style="font:600 10px 'IBM Plex Mono',monospace; background:var(--gold); color:var(--onGold); padding:3px 8px; border-radius:4px; letter-spacing:0.04em;">RECOMMENDED</div>
+          </div>
+          <div style="display:grid; grid-template-columns:repeat(4,1fr); gap:10px;">
+            <div><div style="font:400 9px 'IBM Plex Mono',monospace; color:var(--text3); letter-spacing:0.04em;">AREA</div><div style="font:500 13px 'IBM Plex Mono',monospace; margin-top:2px;">8,400 m²</div></div>
+            <div><div style="font:400 9px 'IBM Plex Mono',monospace; color:var(--text3); letter-spacing:0.04em;">ZONING</div><div style="font:500 13px 'IBM Plex Mono',monospace; margin-top:2px;">Mixed-use</div></div>
+            <div><div style="font:400 9px 'IBM Plex Mono',monospace; color:var(--text3); letter-spacing:0.04em;">TRANSIT</div><div style="font:500 13px 'IBM Plex Mono',monospace; margin-top:2px;">420 m</div></div>
+            <div><div style="font:400 9px 'IBM Plex Mono',monospace; color:var(--text3); letter-spacing:0.04em;">EST. COST</div><div style="font:500 13px 'IBM Plex Mono',monospace; margin-top:2px;">AED 24M</div></div>
+          </div>
+        </div>
+
+        <!-- investors -->
+        <div>
+          <div style="font:400 11px 'IBM Plex Mono',monospace; color:var(--text3); letter-spacing:0.08em; margin-bottom:8px;">MATCHED INVESTORS</div>
+          <div style="display:flex; gap:8px;">
+            <div style="flex:1; display:flex; align-items:center; gap:8px; border:1px solid var(--border); border-radius:7px; padding:7px 9px;">
+              <div style="width:24px; height:24px; border-radius:5px; background:var(--text); color:var(--bg); font:600 9px 'IBM Plex Mono',monospace; display:flex; align-items:center; justify-content:center; flex:none;">MR</div>
+              <div style="min-width:0;"><div style="font:600 11px 'IBM Plex Sans',sans-serif; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">Mubadala RE</div><div style="font:500 10px 'IBM Plex Mono',monospace; color:var(--goldDeep);">94% match</div></div>
+            </div>
+            <div style="flex:1; display:flex; align-items:center; gap:8px; border:1px solid var(--border); border-radius:7px; padding:7px 9px;">
+              <div style="width:24px; height:24px; border-radius:5px; background:var(--text); color:var(--bg); font:600 9px 'IBM Plex Mono',monospace; display:flex; align-items:center; justify-content:center; flex:none;">AV</div>
+              <div style="min-width:0;"><div style="font:600 11px 'IBM Plex Sans',sans-serif; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">Aldar Ventures</div><div style="font:500 10px 'IBM Plex Mono',monospace; color:var(--goldDeep);">88% match</div></div>
+            </div>
+            <div style="flex:1; display:flex; align-items:center; gap:8px; border:1px solid var(--border); border-radius:7px; padding:7px 9px;">
+              <div style="width:24px; height:24px; border-radius:5px; background:var(--text); color:var(--bg); font:600 9px 'IBM Plex Mono',monospace; display:flex; align-items:center; justify-content:center; flex:none;">AQ</div>
+              <div style="min-width:0;"><div style="font:600 11px 'IBM Plex Sans',sans-serif; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">ADQ Social</div><div style="font:500 10px 'IBM Plex Mono',monospace; color:var(--goldDeep);">81% match</div></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- sources -->
+        <div style="margin-top:auto; border-top:1px solid var(--hair); padding-top:9px;">
+          <span style="font:400 10px 'IBM Plex Mono',monospace; color:var(--text3);">Sources&nbsp; land_registry.csv · population_2025.geojson · amenities_poi.json · transit_lines.geojson · capital_partners.csv</span>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- input bar -->
+    <div style="height:62px; flex:none; border-top:1px solid var(--border); background:var(--surface); display:flex; align-items:center; padding:0 18px; gap:12px;">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" style="flex:none;"><circle cx="11" cy="11" r="7" stroke="var(--text3)" stroke-width="2"/><line x1="16.5" y1="16.5" x2="21" y2="21" stroke="var(--text3)" stroke-width="2" stroke-linecap="round"/></svg>
+      <div style="flex:1; font:400 14px 'IBM Plex Sans',sans-serif; color:var(--text);">Where is Abu Dhabi most underserved, and what should we do about it?</div>
+      <div style="font:400 10px 'IBM Plex Mono',monospace; color:var(--text3); border:1px solid var(--border); border-radius:4px; padding:3px 7px;">↵ run</div>
+      <div style="width:34px; height:34px; border-radius:8px; background:var(--gold); display:flex; align-items:center; justify-content:center; flex:none;">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none"><path d="M12 19 L12 5 M6 11 L12 5 L18 11" stroke="var(--onGold)" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- ============ F · DASHBOARD DARK ============ -->
+<div style="position:absolute; left:0; top:1560px; width:1280px;">
+  <div data-drags-parent="1" style="font:500 11px 'IBM Plex Mono',monospace; letter-spacing:0.06em; color:#8A887F; margin-bottom:10px;">HERO DASHBOARD — DARK</div>
+  <div style="--bg:#0A0A0A; --surface:#111111; --cardAlt:#161616; --text:#F4F2EA; --text2:#9A988F; --text3:#6E6C65; --border:#242422; --hair:#1E1E1C; --gold:#F0C24B; --goldDeep:#EAB94E; --goldTint:#211A06; --onGold:#0A0A0A; width:1280px; height:720px; background:var(--bg); color:var(--text); border:1px solid var(--border); border-radius:3px; box-shadow:0 2px 8px rgba(0,0,0,.3); overflow:hidden; display:flex; flex-direction:column; font-family:'IBM Plex Sans',sans-serif;">
+
+    <!-- topbar -->
+    <div style="height:54px; flex:none; display:flex; align-items:center; justify-content:space-between; padding:0 20px; border-bottom:1px solid var(--border); background:var(--surface);">
+      <div style="display:flex; align-items:center; gap:12px;">
+        <svg width="26" height="26" viewBox="0 0 40 40" fill="none">
+          <rect x="3.5" y="3.5" width="33" height="33" rx="7" stroke="var(--text)" stroke-width="2.4"/>
+          <line x1="3.5" y1="15" x2="36.5" y2="15" stroke="var(--text)" stroke-width="1.4" opacity="0.4"/>
+          <line x1="25" y1="3.5" x2="25" y2="36.5" stroke="var(--text)" stroke-width="1.4" opacity="0.4"/>
+          <path d="M25 8 L32 15 L25 22 L18 15 Z" fill="var(--gold)"/>
+        </svg>
+        <div style="font:600 20px 'IBM Plex Serif',serif; line-height:1;">Qarar</div>
+        <div style="font:500 14px 'IBM Plex Sans Arabic',sans-serif; color:var(--goldDeep);">قرار</div>
+        <div style="width:1px; height:18px; background:var(--border); margin:0 4px;"></div>
+        <div style="font:400 12px 'IBM Plex Mono',monospace; color:var(--text2);">Abu Dhabi · decision intelligence</div>
+      </div>
+      <div style="display:flex; align-items:center; gap:14px;">
+        <div style="font:400 11px 'IBM Plex Mono',monospace; color:var(--text3);">Live municipal data · FY2025</div>
+        <div style="display:flex; border:1px solid var(--border); border-radius:6px; overflow:hidden;">
+          <div style="font:500 11px 'IBM Plex Mono',monospace; padding:6px 12px; background:var(--text); color:var(--bg);">Map</div>
+          <div style="font:500 11px 'IBM Plex Mono',monospace; padding:6px 12px; color:var(--text2);">Table</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- body -->
+    <div style="flex:1; display:flex; min-height:0;">
+
+      <!-- MAP -->
+      <div style="flex:0 0 60%; position:relative; border-right:1px solid var(--border); background:var(--bg);">
+        {{ mapDark }}
+        <div style="position:absolute; left:18px; bottom:18px; background:var(--surface); border:1px solid var(--border); border-radius:6px; padding:12px 14px; display:flex; flex-direction:column; gap:9px; box-shadow:0 1px 4px rgba(0,0,0,.3);">
+          <div style="display:flex; align-items:center; gap:9px;">
+            <span style="width:7px; height:7px; border-radius:50%; background:var(--text2); display:inline-block;"></span>
+            <span style="font:400 11px 'IBM Plex Mono',monospace; color:var(--text2);">Existing amenity</span>
+          </div>
+          <div style="display:flex; align-items:center; gap:9px;">
+            <span style="width:11px; height:11px; border-radius:2px; background:var(--goldTint); border:1.5px solid var(--gold); display:inline-block;"></span>
+            <span style="font:400 11px 'IBM Plex Mono',monospace; color:var(--text2);">Biggest service gap</span>
+          </div>
+          <div style="display:flex; align-items:center; gap:9px;">
+            <span style="width:11px; height:11px; border-radius:50%; background:var(--gold); border:2px solid var(--surface); box-shadow:0 0 0 1px var(--gold); display:inline-block;"></span>
+            <span style="font:400 11px 'IBM Plex Mono',monospace; color:var(--text2);">Recommended parcel</span>
+          </div>
+        </div>
+        <div style="position:absolute; left:18px; top:18px; background:var(--surface); border:1px solid var(--border); border-radius:6px; padding:7px 12px; box-shadow:0 1px 4px rgba(0,0,0,.3);">
+          <div style="font:500 11px 'IBM Plex Mono',monospace; color:var(--text); letter-spacing:0.04em;">ABU DHABI · 11 DISTRICTS · 142 AMENITIES</div>
+        </div>
+      </div>
+
+      <!-- BRIEF -->
+      <div style="flex:1; min-width:0; padding:13px 22px; display:flex; flex-direction:column; gap:7px; background:var(--surface); overflow:hidden;">
+
+        <div style="display:flex; align-items:center; justify-content:space-between;">
+          <div style="display:inline-flex; align-items:center; gap:8px; border:1px solid var(--gold); border-radius:20px; padding:4px 11px;">
+            <span style="width:6px; height:6px; border-radius:50%; background:var(--gold); display:inline-block;"></span>
+            <span style="font:500 11px 'IBM Plex Mono',monospace; color:var(--goldDeep); letter-spacing:0.02em;">AI agent · 5 tool calls</span>
+          </div>
+          <span style="font:400 11px 'IBM Plex Mono',monospace; color:var(--text3);">conf. 0.91</span>
+        </div>
+
+        <div>
+          <div style="font:400 11px 'IBM Plex Mono',monospace; color:var(--text3); letter-spacing:0.08em; margin-bottom:6px;">RECOMMENDATION</div>
+          <div style="font:600 23px 'IBM Plex Serif',serif; line-height:1.2; letter-spacing:-0.01em;">Build a community health &amp; services hub in <span style="color:var(--goldDeep);">Al Shamkha</span>.</div>
+          <div style="font:400 13px 'IBM Plex Sans',sans-serif; color:var(--text2); margin-top:7px; line-height:1.45;">Highest unmet demand in the emirate — <span style="color:var(--text); font-weight:600;">38,000</span> residents served by a single clinic.</div>
+        </div>
+
+        <div style="border-top:1px solid var(--hair); padding-top:9px;">
+          <div style="font:400 11px 'IBM Plex Mono',monospace; color:var(--text3); letter-spacing:0.08em; margin-bottom:8px;">REASONING — HOW THE AGENT DECIDED</div>
+          <div style="display:flex; flex-direction:column; gap:0;">
+
+            <div style="display:flex; gap:13px;">
+              <div style="display:flex; flex-direction:column; align-items:center;">
+                <div style="width:22px; height:22px; border-radius:50%; background:var(--gold); color:var(--onGold); font:600 11px 'IBM Plex Mono',monospace; display:flex; align-items:center; justify-content:center; flex:none;">1</div>
+                <div style="width:1.5px; flex:1; background:var(--hair); margin:2px 0;"></div>
+              </div>
+              <div style="padding-bottom:7px;">
+                <div style="font:600 13px 'IBM Plex Sans',sans-serif; line-height:1.3;">Mapped demand against supply</div>
+                <div style="font:400 12px 'IBM Plex Sans',sans-serif; color:var(--text2); line-height:1.4; margin-top:2px;">142 amenities across 11 districts, weighted by population density.</div>
+              </div>
+            </div>
+
+            <div style="display:flex; gap:13px;">
+              <div style="display:flex; flex-direction:column; align-items:center;">
+                <div style="width:22px; height:22px; border-radius:50%; background:var(--gold); color:var(--onGold); font:600 11px 'IBM Plex Mono',monospace; display:flex; align-items:center; justify-content:center; flex:none;">2</div>
+                <div style="width:1.5px; flex:1; background:var(--hair); margin:2px 0;"></div>
+              </div>
+              <div style="padding-bottom:7px;">
+                <div style="font:600 13px 'IBM Plex Sans',sans-serif; line-height:1.3;">Flagged the widest gap</div>
+                <div style="font:400 12px 'IBM Plex Sans',sans-serif; color:var(--text2); line-height:1.4; margin-top:2px;">Al Shamkha: 38k residents, 1 clinic — the emirate's highest unmet demand.</div>
+              </div>
+            </div>
+
+            <div style="display:flex; gap:13px;">
+              <div style="display:flex; flex-direction:column; align-items:center;">
+                <div style="width:22px; height:22px; border-radius:50%; background:var(--gold); color:var(--onGold); font:600 11px 'IBM Plex Mono',monospace; display:flex; align-items:center; justify-content:center; flex:none;">3</div>
+                <div style="width:1.5px; flex:1; background:var(--hair); margin:2px 0;"></div>
+              </div>
+              <div style="padding-bottom:7px;">
+                <div style="font:600 13px 'IBM Plex Sans',sans-serif; line-height:1.3;">Found buildable land</div>
+                <div style="font:400 12px 'IBM Plex Sans',sans-serif; color:var(--text2); line-height:1.4; margin-top:2px;">Filtered municipal registry for vacant parcels within 600 m of transit.</div>
+              </div>
+            </div>
+
+            <div style="display:flex; gap:13px;">
+              <div style="display:flex; flex-direction:column; align-items:center;">
+                <div style="width:22px; height:22px; border-radius:50%; background:var(--gold); color:var(--onGold); font:600 11px 'IBM Plex Mono',monospace; display:flex; align-items:center; justify-content:center; flex:none;">4</div>
+              </div>
+              <div>
+                <div style="font:600 13px 'IBM Plex Sans',sans-serif; line-height:1.3;">Ranked the best site</div>
+                <div style="font:400 12px 'IBM Plex Sans',sans-serif; color:var(--text2); line-height:1.4; margin-top:2px;">Scored parcel <span style="color:var(--goldDeep); font-weight:600;">P-207</span> top on access, cost &amp; zoning fit.</div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+        <div style="border:1px solid var(--border); border-radius:8px; padding:11px 14px; background:var(--cardAlt);">
+          <div style="display:flex; align-items:center; justify-content:space-between; margin-bottom:10px;">
+            <div style="font:600 14px 'IBM Plex Sans',sans-serif;">Parcel <span style="color:var(--goldDeep);">P-207</span> · Al Shamkha</div>
+            <div style="font:600 10px 'IBM Plex Mono',monospace; background:var(--gold); color:var(--onGold); padding:3px 8px; border-radius:4px; letter-spacing:0.04em;">RECOMMENDED</div>
+          </div>
+          <div style="display:grid; grid-template-columns:repeat(4,1fr); gap:10px;">
+            <div><div style="font:400 9px 'IBM Plex Mono',monospace; color:var(--text3); letter-spacing:0.04em;">AREA</div><div style="font:500 13px 'IBM Plex Mono',monospace; margin-top:2px;">8,400 m²</div></div>
+            <div><div style="font:400 9px 'IBM Plex Mono',monospace; color:var(--text3); letter-spacing:0.04em;">ZONING</div><div style="font:500 13px 'IBM Plex Mono',monospace; margin-top:2px;">Mixed-use</div></div>
+            <div><div style="font:400 9px 'IBM Plex Mono',monospace; color:var(--text3); letter-spacing:0.04em;">TRANSIT</div><div style="font:500 13px 'IBM Plex Mono',monospace; margin-top:2px;">420 m</div></div>
+            <div><div style="font:400 9px 'IBM Plex Mono',monospace; color:var(--text3); letter-spacing:0.04em;">EST. COST</div><div style="font:500 13px 'IBM Plex Mono',monospace; margin-top:2px;">AED 24M</div></div>
+          </div>
+        </div>
+
+        <div>
+          <div style="font:400 11px 'IBM Plex Mono',monospace; color:var(--text3); letter-spacing:0.08em; margin-bottom:8px;">MATCHED INVESTORS</div>
+          <div style="display:flex; gap:8px;">
+            <div style="flex:1; display:flex; align-items:center; gap:8px; border:1px solid var(--border); border-radius:7px; padding:7px 9px;">
+              <div style="width:24px; height:24px; border-radius:5px; background:var(--text); color:var(--bg); font:600 9px 'IBM Plex Mono',monospace; display:flex; align-items:center; justify-content:center; flex:none;">MR</div>
+              <div style="min-width:0;"><div style="font:600 11px 'IBM Plex Sans',sans-serif; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">Mubadala RE</div><div style="font:500 10px 'IBM Plex Mono',monospace; color:var(--goldDeep);">94% match</div></div>
+            </div>
+            <div style="flex:1; display:flex; align-items:center; gap:8px; border:1px solid var(--border); border-radius:7px; padding:7px 9px;">
+              <div style="width:24px; height:24px; border-radius:5px; background:var(--text); color:var(--bg); font:600 9px 'IBM Plex Mono',monospace; display:flex; align-items:center; justify-content:center; flex:none;">AV</div>
+              <div style="min-width:0;"><div style="font:600 11px 'IBM Plex Sans',sans-serif; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">Aldar Ventures</div><div style="font:500 10px 'IBM Plex Mono',monospace; color:var(--goldDeep);">88% match</div></div>
+            </div>
+            <div style="flex:1; display:flex; align-items:center; gap:8px; border:1px solid var(--border); border-radius:7px; padding:7px 9px;">
+              <div style="width:24px; height:24px; border-radius:5px; background:var(--text); color:var(--bg); font:600 9px 'IBM Plex Mono',monospace; display:flex; align-items:center; justify-content:center; flex:none;">AQ</div>
+              <div style="min-width:0;"><div style="font:600 11px 'IBM Plex Sans',sans-serif; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">ADQ Social</div><div style="font:500 10px 'IBM Plex Mono',monospace; color:var(--goldDeep);">81% match</div></div>
+            </div>
+          </div>
+        </div>
+
+        <div style="margin-top:auto; border-top:1px solid var(--hair); padding-top:9px;">
+          <span style="font:400 10px 'IBM Plex Mono',monospace; color:var(--text3);">Sources&nbsp; land_registry.csv · population_2025.geojson · amenities_poi.json · transit_lines.geojson · capital_partners.csv</span>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- input bar -->
+    <div style="height:62px; flex:none; border-top:1px solid var(--border); background:var(--surface); display:flex; align-items:center; padding:0 18px; gap:12px;">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" style="flex:none;"><circle cx="11" cy="11" r="7" stroke="var(--text3)" stroke-width="2"/><line x1="16.5" y1="16.5" x2="21" y2="21" stroke="var(--text3)" stroke-width="2" stroke-linecap="round"/></svg>
+      <div style="flex:1; font:400 14px 'IBM Plex Sans',sans-serif; color:var(--text);">Where is Abu Dhabi most underserved, and what should we do about it?</div>
+      <div style="font:400 10px 'IBM Plex Mono',monospace; color:var(--text3); border:1px solid var(--border); border-radius:4px; padding:3px 7px;">↵ run</div>
+      <div style="width:34px; height:34px; border-radius:8px; background:var(--gold); display:flex; align-items:center; justify-content:center; flex:none;">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none"><path d="M12 19 L12 5 M6 11 L12 5 L18 11" stroke="var(--onGold)" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- ============ D · COLOR + TYPE SPEC ============ -->
+<div style="position:absolute; left:1360px; top:760px; width:560px;">
+  <div data-drags-parent="1" style="font:500 11px 'IBM Plex Mono',monospace; letter-spacing:0.06em; color:#8A887F; margin-bottom:10px;">COLOR + TYPE SPEC</div>
+  <div style="width:560px; background:#FFFFFF; border:1px solid #E6E3DA; border-radius:3px; box-shadow:0 1px 3px rgba(0,0,0,.08); padding:28px 30px;">
+
+    <div style="font:600 22px 'IBM Plex Serif',serif; color:#0B0B0A;">Qarar — colour &amp; type</div>
+    <div style="font:400 12px 'IBM Plex Mono',monospace; color:#6C6A62; margin-top:6px;">Gold is the single accent. Everything else stays monochrome.</div>
+
+    <!-- LIGHT -->
+    <div style="font:500 11px 'IBM Plex Mono',monospace; letter-spacing:0.1em; color:#8A887F; margin:26px 0 14px;">LIGHT MODE — WHITE / GOLD</div>
+    <div style="display:flex; flex-direction:column; gap:11px;">
+      {{ specLightRows }}
+    </div>
+
+    <!-- DARK -->
+    <div style="font:500 11px 'IBM Plex Mono',monospace; letter-spacing:0.1em; color:#8A887F; margin:26px 0 14px;">DARK MODE — BLACK / GOLD</div>
+    <div style="display:flex; flex-direction:column; gap:11px;">
+      {{ specDarkRows }}
+    </div>
+
+    <!-- TYPE -->
+    <div style="font:500 11px 'IBM Plex Mono',monospace; letter-spacing:0.1em; color:#8A887F; margin:28px 0 14px;">TYPEFACES — IBM PLEX FAMILY</div>
+    <div style="display:flex; flex-direction:column; gap:16px;">
+
+      <div style="display:flex; align-items:baseline; justify-content:space-between; gap:16px; border-bottom:1px solid #EFEDE5; padding-bottom:14px;">
+        <div style="font:600 30px 'IBM Plex Serif',serif; color:#0B0B0A; line-height:1;">Qarar</div>
+        <div style="text-align:right;"><div style="font:600 12px 'IBM Plex Sans',sans-serif; color:#0B0B0A;">IBM Plex Serif</div><div style="font:400 11px 'IBM Plex Mono',monospace; color:#6C6A62; margin-top:2px;">Wordmark · brief headlines</div></div>
+      </div>
+
+      <div style="display:flex; align-items:baseline; justify-content:space-between; gap:16px; border-bottom:1px solid #EFEDE5; padding-bottom:14px;">
+        <div style="font:500 22px 'IBM Plex Sans',sans-serif; color:#0B0B0A; line-height:1;">Decision intelligence</div>
+        <div style="text-align:right;"><div style="font:600 12px 'IBM Plex Sans',sans-serif; color:#0B0B0A;">IBM Plex Sans</div><div style="font:400 11px 'IBM Plex Mono',monospace; color:#6C6A62; margin-top:2px;">Interface · body</div></div>
+      </div>
+
+      <div style="display:flex; align-items:baseline; justify-content:space-between; gap:16px; border-bottom:1px solid #EFEDE5; padding-bottom:14px;">
+        <div style="font:500 28px 'IBM Plex Sans Arabic',sans-serif; color:#8C6A1C; line-height:1;">قرار</div>
+        <div style="text-align:right;"><div style="font:600 12px 'IBM Plex Sans',sans-serif; color:#0B0B0A;">IBM Plex Sans Arabic</div><div style="font:400 11px 'IBM Plex Mono',monospace; color:#6C6A62; margin-top:2px;">Arabic lockup</div></div>
+      </div>
+
+      <div style="display:flex; align-items:baseline; justify-content:space-between; gap:16px;">
+        <div style="font:500 18px 'IBM Plex Mono',monospace; color:#0B0B0A; line-height:1;">AED 24M · 0.91</div>
+        <div style="text-align:right;"><div style="font:600 12px 'IBM Plex Sans',sans-serif; color:#0B0B0A;">IBM Plex Mono</div><div style="font:400 11px 'IBM Plex Mono',monospace; color:#6C6A62; margin-top:2px;">Data · sources · numerals</div></div>
+      </div>
+
+    </div>
+  </div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script>
+class Component extends DCLogic {
+  map(c){
+    const h = React.createElement;
+    const dist = [
+      [36,36,150,116,0],[200,36,168,98,0],[382,36,150,128,0],[546,36,178,140,0],
+      [36,168,120,150,0],[200,150,168,168,1],[382,182,150,136,0],[546,190,178,118,0],
+      [36,334,150,118,0],[200,332,168,108,0],[382,334,150,118,0]
+    ];
+    const dots = [
+      [96,86],[150,118],[286,70],[330,118],[452,80],[470,140],[636,86],[672,150],
+      [96,250],[124,300],[452,250],[470,296],[636,250],
+      [96,396],[150,430],[300,398],[452,398],[636,396]
+    ];
+    const sv = [[186,28,452],[370,28,452],[534,40,318]];
+    const sh = [[160,28,728],[326,28,548]];
+    const el = [];
+    el.push(h('rect',{key:'bg',x:0,y:0,width:760,height:600,fill:c.water}));
+    el.push(h('path',{key:'gulf',d:'M 360 600 C 480 524 620 548 760 470 L 760 600 Z',fill:c.water2}));
+    dist.forEach((d,i)=>el.push(h('rect',{key:'d'+i,x:d[0],y:d[1],width:d[2],height:d[3],rx:6,
+      fill:d[4]?c.goldTint:c.land, stroke:d[4]?c.goldStroke:c.stroke, strokeWidth:d[4]?2.4:1.25})));
+    sh.forEach((s,i)=>el.push(h('line',{key:'sh'+i,x1:s[1],y1:s[0],x2:s[2],y2:s[0],stroke:c.street,strokeWidth:3})));
+    sv.forEach((s,i)=>el.push(h('line',{key:'sv'+i,x1:s[0],y1:s[1],x2:s[0],y2:s[2],stroke:c.street,strokeWidth:3})));
+    dots.forEach((p,i)=>el.push(h('circle',{key:'p'+i,cx:p[0],cy:p[1],r:3.4,fill:c.dot})));
+    el.push(h('circle',{key:'gdot',cx:262,cy:294,r:3.4,fill:c.dotGold}));
+    // faint district labels
+    el.push(h('text',{key:'lf1',x:44,y:30,fill:c.faint,style:{font:"400 11px 'IBM Plex Mono',monospace"}},'Khalifa City'));
+    el.push(h('text',{key:'lf2',x:554,y:30,fill:c.faint,style:{font:"400 11px 'IBM Plex Mono',monospace"}},'Yas Island'));
+    el.push(h('text',{key:'lf3',x:44,y:328,fill:c.faint,style:{font:"400 11px 'IBM Plex Mono',monospace"}},'Mussafah'));
+    // gold district labels
+    el.push(h('text',{key:'gl1',x:200,y:140,fill:c.goldText,style:{font:"600 11px 'IBM Plex Mono',monospace",letterSpacing:'0.06em'}},'BIGGEST SERVICE GAP'));
+    el.push(h('text',{key:'gl2',x:300,y:306,textAnchor:'middle',fill:c.text2,style:{font:"500 13px 'IBM Plex Mono',monospace"}},'Al Shamkha'));
+    // recommended pin
+    el.push(h('ellipse',{key:'psh',cx:300,cy:250,rx:8,ry:2.6,fill:'rgba(0,0,0,0.18)'}));
+    el.push(h('path',{key:'ptri',d:'M 290 226 L 310 226 L 300 250 Z',fill:c.pin}));
+    el.push(h('circle',{key:'pc',cx:300,cy:218,r:12,fill:c.pin,stroke:c.pinRing,strokeWidth:2.5}));
+    el.push(h('circle',{key:'pi',cx:300,cy:218,r:4.2,fill:c.pinDot}));
+    // north arrow
+    el.push(h('line',{key:'n1',x1:712,y1:42,x2:712,y2:64,stroke:c.text2,strokeWidth:1.5}));
+    el.push(h('path',{key:'n2',d:'M 707 48 L 712 38 L 717 48 Z',fill:c.text2}));
+    el.push(h('text',{key:'n3',x:712,y:80,textAnchor:'middle',fill:c.text2,style:{font:"500 10px 'IBM Plex Mono',monospace"}},'N'));
+    // scale bar
+    el.push(h('line',{key:'s1',x1:40,y1:566,x2:120,y2:566,stroke:c.text2,strokeWidth:2}));
+    el.push(h('line',{key:'s2',x1:40,y1:561,x2:40,y2:571,stroke:c.text2,strokeWidth:2}));
+    el.push(h('line',{key:'s3',x1:120,y1:561,x2:120,y2:571,stroke:c.text2,strokeWidth:2}));
+    el.push(h('text',{key:'s4',x:128,y:570,fill:c.text2,style:{font:"400 10px 'IBM Plex Mono',monospace"}},'2 km'));
+    return h('svg',{viewBox:'0 0 760 600',preserveAspectRatio:'xMidYMid slice',style:{width:'100%',height:'100%',display:'block'}},el);
+  }
+
+  specRow(swatch, border, name, hex, textOnLight){
+    const h = React.createElement;
+    return h('div',{key:name,style:{display:'flex',alignItems:'center',gap:'13px'}},[
+      h('div',{key:'c',style:{width:'30px',height:'30px',borderRadius:'5px',background:swatch,border:'1px solid '+border,flex:'none'}}),
+      h('div',{key:'n',style:{flex:'1',font:"500 13px 'IBM Plex Sans',sans-serif",color:'#0B0B0A'}},name),
+      h('div',{key:'x',style:{font:"500 12px 'IBM Plex Mono',monospace",color:'#6C6A62'}},hex)
+    ]);
+  }
+
+  renderVals(){
+    const h = React.createElement;
+    const light = {water:'#EEEBE2',water2:'#E5E1D7',land:'#FFFFFF',stroke:'#E4E1D7',street:'#ECE9E0',
+      goldTint:'#F4E9C9',goldStroke:'#C29A3A',dot:'#A7A59B',dotGold:'#C7A24A',text2:'#6C6A62',faint:'#BBB9AF',
+      goldText:'#8C6A1C',pin:'#B0892B',pinRing:'#FFFFFF',pinDot:'#FFFFFF'};
+    const dark = {water:'#0C0C0C',water2:'#070707',land:'#181818',stroke:'#2A2A28',street:'#101010',
+      goldTint:'#2A2207',goldStroke:'#7A5E1E',dot:'#5E5E58',dotGold:'#8A6E2A',text2:'#9A988F',faint:'#3A3A36',
+      goldText:'#EAB94E',pin:'#F0C24B',pinRing:'#0A0A0A',pinDot:'#0A0A0A'};
+
+    const lightRows = [
+      ['#FAFAF7','#E6E3DA','Background','#FAFAF7'],
+      ['#FFFFFF','#E6E3DA','Surface / card','#FFFFFF'],
+      ['#F6F4ED','#E6E3DA','Card alt','#F6F4ED'],
+      ['#0B0B0A','#0B0B0A','Text','#0B0B0A'],
+      ['#6C6A62','#6C6A62','Secondary text','#6C6A62'],
+      ['#E6E3DA','#D8D5CC','Border','#E6E3DA'],
+      ['#8C6A1C','#8C6A1C','Gold — deep (text on white)','#8C6A1C'],
+      ['#B0892B','#B0892B','Gold — primary (fills, mark)','#B0892B'],
+      ['#F4E9C9','#E3D4A4','Gold — district tint','#F4E9C9']
+    ].map(r=>this.specRow(r[0],r[1],r[2],r[3]));
+
+    const darkRows = [
+      ['#0A0A0A','#33322E','Background','#0A0A0A'],
+      ['#111111','#33322E','Surface / card','#111111'],
+      ['#161616','#33322E','Card alt','#161616'],
+      ['#F4F2EA','#D8D5CC','Text','#F4F2EA'],
+      ['#9A988F','#9A988F','Secondary text','#9A988F'],
+      ['#242422','#33322E','Border','#242422'],
+      ['#EAB94E','#EAB94E','Gold — bright (accent, text)','#EAB94E'],
+      ['#F0C24B','#F0C24B','Gold — primary (fills)','#F0C24B'],
+      ['#211A06','#3A2E10','Gold — district tint','#211A06']
+    ].map(r=>this.specRow(r[0],r[1],r[2],r[3]));
+
+    return {
+      mapLight: this.map(light),
+      mapDark: this.map(dark),
+      specLightRows: lightRows,
+      specDarkRows: darkRows
+    };
+  }
+}
+</script>
+</body>
+</html>

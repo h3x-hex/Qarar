@@ -1,0 +1,201 @@
+investor_id,investor_type,preferred_sector,preferred_district,capital_range_aed,risk_profile,investment_horizon,strategic_fit_score
+INV-001,private_equity,industrial,Al Reef,15M-60M,conservative,long,74
+INV-002,hnwi,industrial,Zayed City,500M-2B,balanced,short,63
+INV-003,hnwi,residential,Al Maryah Island,8M-40M,balanced,short,91
+INV-004,private_equity,residential,Al Reem Island,500M-2B,aggressive,long,91
+INV-005,private_equity,commercial,Khalifa City,400M-1.5B,conservative,medium,90
+INV-006,developer,hospitality,Al Reef,8M-40M,conservative,long,94
+INV-007,hnwi,residential,Al Reem Island,500M-2B,balanced,long,85
+INV-008,developer,community,Al Reem Island,8M-40M,balanced,medium,84
+INV-009,hnwi,residential,Al Ghadeer,400M-1.5B,balanced,long,87
+INV-010,family_office,mixed_use,Zayed City,50M-200M,conservative,long,74
+INV-011,private_equity,mixed_use,Al Khalidiyah,100M-400M,conservative,long,79
+INV-012,reit,logistics,Danet Abu Dhabi,30M-120M,balanced,short,76
+INV-013,sovereign_fund,residential,Danet Abu Dhabi,50M-200M,aggressive,long,89
+INV-014,family_office,logistics,Al Khalidiyah,400M-1.5B,conservative,long,80
+INV-015,reit,commercial,Al Raha Beach,8M-40M,aggressive,long,75
+INV-016,reit,commercial,Masdar City,100M-400M,balanced,medium,71
+INV-017,private_equity,industrial,Al Ghadeer,200M-800M,conservative,long,100
+INV-018,sovereign_fund,hospitality,Mussafah,30M-120M,aggressive,long,71
+INV-019,developer,mixed_use,Corniche,150M-600M,aggressive,medium,89
+INV-020,institutional,commercial,Mussafah,200M-800M,aggressive,medium,85
+INV-021,developer,residential,Al Ghadeer,200M-800M,balanced,medium,93
+INV-022,developer,hospitality,Masdar City,200M-800M,aggressive,short,86
+INV-023,private_equity,hospitality,Corniche,30M-120M,aggressive,long,81
+INV-024,private_equity,commercial,Mohammed Bin Zayed City,600M-2.5B,aggressive,short,69
+INV-025,private_equity,hospitality,Khalifa City,8M-40M,balanced,medium,85
+INV-026,institutional,industrial,Danet Abu Dhabi,30M-120M,aggressive,medium,78
+INV-027,hnwi,mixed_use,Al Bahia,30M-120M,aggressive,long,77
+INV-028,hnwi,mixed_use,Al Raha Beach,400M-1.5B,conservative,short,76
+INV-029,family_office,community,Saadiyat Island,600M-2.5B,conservative,medium,78
+INV-030,sovereign_fund,residential,Al Raha Beach,150M-600M,conservative,medium,90
+INV-031,developer,logistics,Zayed City,100M-400M,aggressive,medium,80
+INV-032,family_office,residential,Khalifa City,600M-2.5B,balanced,long,77
+INV-033,developer,community,Mussafah,30M-120M,balanced,short,67
+INV-034,developer,residential,Saadiyat Island,600M-2.5B,balanced,long,73
+INV-035,family_office,community,Al Khalidiyah,600M-2.5B,balanced,medium,76
+INV-036,hnwi,logistics,Al Ghadeer,50M-200M,balanced,long,81
+INV-037,hnwi,community,Al Maryah Island,8M-40M,balanced,long,79
+INV-038,hnwi,hospitality,Al Bahia,150M-600M,balanced,long,90
+INV-039,developer,commercial,Al Maryah Island,50M-200M,aggressive,medium,77
+INV-040,hnwi,hospitality,Mussafah,150M-600M,aggressive,short,78
+INV-041,developer,logistics,Corniche,200M-800M,conservative,short,68
+INV-042,private_equity,logistics,Al Bateen,400M-1.5B,conservative,medium,87
+INV-043,family_office,hospitality,Saadiyat Island,8M-40M,conservative,medium,87
+INV-044,reit,residential,Al Zahiyah,150M-600M,conservative,long,99
+INV-045,family_office,mixed_use,Danet Abu Dhabi,8M-40M,conservative,medium,88
+INV-046,developer,community,Al Raha Beach,400M-1.5B,aggressive,medium,77
+INV-047,hnwi,residential,Al Raha Beach,15M-60M,aggressive,medium,74
+INV-048,family_office,hospitality,Al Zahiyah,100M-400M,aggressive,medium,85
+INV-049,hnwi,residential,Al Ghadeer,500M-2B,aggressive,long,65
+INV-050,institutional,industrial,Al Khalidiyah,200M-800M,conservative,long,100
+INV-051,hnwi,industrial,Al Khalidiyah,600M-2.5B,aggressive,short,78
+INV-052,hnwi,hospitality,Masdar City,8M-40M,conservative,long,74
+INV-053,sovereign_fund,residential,Zayed City,400M-1.5B,aggressive,long,69
+INV-054,private_equity,community,Saadiyat Island,100M-400M,conservative,long,75
+INV-055,sovereign_fund,residential,Al Maryah Island,400M-1.5B,aggressive,long,98
+INV-056,reit,logistics,Saadiyat Island,400M-1.5B,aggressive,short,78
+INV-057,hnwi,mixed_use,Danet Abu Dhabi,8M-40M,aggressive,long,47
+INV-058,family_office,mixed_use,Al Khalidiyah,600M-2.5B,aggressive,long,84
+INV-059,private_equity,residential,Khalifa City,50M-200M,aggressive,long,80
+INV-060,private_equity,mixed_use,Al Zahiyah,150M-600M,conservative,medium,71
+INV-061,hnwi,mixed_use,Khalifa City,200M-800M,aggressive,medium,54
+INV-062,family_office,mixed_use,Khalifa City,600M-2.5B,conservative,short,73
+INV-063,hnwi,residential,Masdar City,600M-2.5B,balanced,medium,83
+INV-064,reit,logistics,Al Bateen,100M-400M,conservative,long,75
+INV-065,hnwi,community,Masdar City,500M-2B,balanced,medium,85
+INV-066,developer,commercial,Masdar City,8M-40M,balanced,long,85
+INV-067,private_equity,logistics,Yas Island,100M-400M,conservative,short,75
+INV-068,private_equity,mixed_use,Mohammed Bin Zayed City,15M-60M,conservative,long,85
+INV-069,sovereign_fund,residential,Masdar City,400M-1.5B,aggressive,short,75
+INV-070,private_equity,residential,Al Reef,400M-1.5B,conservative,medium,66
+INV-071,reit,commercial,Khalifa City,400M-1.5B,balanced,long,83
+INV-072,developer,mixed_use,Zayed City,8M-40M,balanced,medium,84
+INV-073,institutional,mixed_use,Corniche,400M-1.5B,aggressive,short,83
+INV-074,developer,hospitality,Masdar City,30M-120M,conservative,short,77
+INV-075,hnwi,commercial,Al Shamkha,8M-40M,conservative,medium,73
+INV-076,hnwi,residential,Saadiyat Island,30M-120M,aggressive,short,77
+INV-077,developer,commercial,Al Bateen,50M-200M,aggressive,medium,70
+INV-078,hnwi,commercial,Al Raha Beach,15M-60M,conservative,long,89
+INV-079,family_office,residential,Khalifa City,15M-60M,aggressive,medium,85
+INV-080,developer,commercial,Corniche,150M-600M,aggressive,medium,91
+INV-081,reit,hospitality,Al Bateen,8M-40M,conservative,medium,84
+INV-082,private_equity,mixed_use,Al Raha Beach,150M-600M,aggressive,medium,57
+INV-083,reit,mixed_use,Mussafah,600M-2.5B,balanced,long,97
+INV-084,family_office,hospitality,Al Maqta,200M-800M,balanced,medium,92
+INV-085,private_equity,residential,Al Zahiyah,150M-600M,aggressive,long,78
+INV-086,family_office,mixed_use,Al Shamkha,8M-40M,aggressive,long,78
+INV-087,family_office,hospitality,Danet Abu Dhabi,200M-800M,aggressive,medium,81
+INV-088,hnwi,commercial,Corniche,50M-200M,aggressive,long,88
+INV-089,reit,commercial,Corniche,200M-800M,aggressive,medium,88
+INV-090,institutional,logistics,Al Bahia,200M-800M,aggressive,short,78
+INV-091,developer,hospitality,Masdar City,500M-2B,conservative,long,85
+INV-092,hnwi,residential,Danet Abu Dhabi,30M-120M,balanced,medium,88
+INV-093,reit,mixed_use,Mussafah,15M-60M,conservative,medium,90
+INV-094,institutional,hospitality,Al Bahia,400M-1.5B,balanced,medium,79
+INV-095,hnwi,mixed_use,Al Bahia,15M-60M,balanced,medium,80
+INV-096,family_office,industrial,Al Ghadeer,200M-800M,conservative,long,75
+INV-097,developer,commercial,Masdar City,150M-600M,conservative,medium,75
+INV-098,hnwi,residential,Al Ghadeer,30M-120M,aggressive,short,78
+INV-099,private_equity,residential,Zayed City,200M-800M,aggressive,short,75
+INV-100,family_office,commercial,Corniche,30M-120M,aggressive,medium,90
+INV-101,hnwi,mixed_use,Saadiyat Island,200M-800M,conservative,medium,71
+INV-102,sovereign_fund,commercial,Al Shamkha,400M-1.5B,conservative,short,89
+INV-103,institutional,community,Masdar City,100M-400M,conservative,long,67
+INV-104,family_office,residential,Al Maqta,50M-200M,aggressive,long,80
+INV-105,private_equity,hospitality,Al Khalidiyah,200M-800M,aggressive,long,87
+INV-106,reit,hospitality,Al Zahiyah,600M-2.5B,balanced,medium,68
+INV-107,developer,mixed_use,Al Zahiyah,500M-2B,aggressive,long,100
+INV-108,reit,residential,Al Maryah Island,30M-120M,conservative,short,91
+INV-109,sovereign_fund,industrial,Yas Island,50M-200M,conservative,long,81
+INV-110,family_office,commercial,Al Khalidiyah,30M-120M,balanced,medium,80
+INV-111,developer,hospitality,Al Reem Island,600M-2.5B,balanced,medium,86
+INV-112,institutional,mixed_use,Al Reem Island,200M-800M,balanced,medium,76
+INV-113,family_office,residential,Al Bahia,50M-200M,balanced,short,86
+INV-114,family_office,mixed_use,Al Maryah Island,15M-60M,aggressive,long,74
+INV-115,private_equity,residential,Al Maqta,400M-1.5B,balanced,long,83
+INV-116,developer,industrial,Danet Abu Dhabi,600M-2.5B,balanced,medium,81
+INV-117,developer,hospitality,Al Shamkha,150M-600M,balanced,medium,80
+INV-118,hnwi,logistics,Saadiyat Island,8M-40M,aggressive,medium,68
+INV-119,developer,industrial,Al Maryah Island,8M-40M,conservative,short,80
+INV-120,sovereign_fund,residential,Al Khalidiyah,30M-120M,aggressive,medium,85
+INV-121,hnwi,community,Al Reem Island,100M-400M,conservative,long,75
+INV-122,reit,industrial,Yas Island,200M-800M,balanced,medium,83
+INV-123,institutional,commercial,Al Maryah Island,8M-40M,conservative,long,67
+INV-124,developer,mixed_use,Corniche,600M-2.5B,conservative,short,67
+INV-125,reit,logistics,Al Reem Island,15M-60M,balanced,medium,91
+INV-126,developer,residential,Khalifa City,500M-2B,balanced,long,57
+INV-127,reit,commercial,Al Maqta,150M-600M,aggressive,long,70
+INV-128,hnwi,industrial,Al Ghadeer,100M-400M,conservative,long,80
+INV-129,reit,residential,Al Ghadeer,150M-600M,balanced,long,77
+INV-130,family_office,commercial,Al Reem Island,500M-2B,conservative,long,80
+INV-131,family_office,hospitality,Al Reef,15M-60M,conservative,long,83
+INV-132,hnwi,mixed_use,Danet Abu Dhabi,600M-2.5B,conservative,medium,66
+INV-133,hnwi,commercial,Yas Island,400M-1.5B,balanced,long,96
+INV-134,developer,residential,Yas Island,200M-800M,conservative,medium,82
+INV-135,developer,commercial,Al Khalidiyah,400M-1.5B,conservative,medium,89
+INV-136,family_office,hospitality,Al Ghadeer,600M-2.5B,conservative,long,70
+INV-137,family_office,residential,Al Maryah Island,100M-400M,conservative,medium,90
+INV-138,family_office,mixed_use,Mohammed Bin Zayed City,400M-1.5B,conservative,long,67
+INV-139,hnwi,industrial,Al Khalidiyah,30M-120M,conservative,long,75
+INV-140,hnwi,mixed_use,Khalifa City,30M-120M,aggressive,medium,79
+INV-141,private_equity,community,Al Ghadeer,15M-60M,balanced,medium,69
+INV-142,family_office,residential,Al Bahia,100M-400M,balanced,long,63
+INV-143,developer,residential,Al Bateen,50M-200M,balanced,medium,72
+INV-144,hnwi,commercial,Al Reem Island,30M-120M,conservative,long,78
+INV-145,family_office,commercial,Yas Island,600M-2.5B,balanced,long,75
+INV-146,developer,residential,Al Reem Island,100M-400M,aggressive,long,75
+INV-147,hnwi,logistics,Al Reef,50M-200M,conservative,medium,73
+INV-148,developer,hospitality,Al Shamkha,200M-800M,aggressive,long,79
+INV-149,developer,commercial,Al Raha Beach,50M-200M,balanced,long,82
+INV-150,private_equity,industrial,Al Reef,30M-120M,conservative,medium,76
+INV-151,private_equity,residential,Zayed City,150M-600M,aggressive,long,84
+INV-152,developer,residential,Al Zahiyah,150M-600M,aggressive,short,70
+INV-153,developer,industrial,Al Reem Island,30M-120M,balanced,medium,83
+INV-154,reit,commercial,Al Reef,100M-400M,balanced,long,90
+INV-155,family_office,commercial,Al Zahiyah,500M-2B,conservative,long,86
+INV-156,hnwi,mixed_use,Mussafah,8M-40M,conservative,medium,90
+INV-157,private_equity,commercial,Al Khalidiyah,30M-120M,balanced,short,91
+INV-158,reit,mixed_use,Al Ghadeer,200M-800M,conservative,medium,62
+INV-159,family_office,hospitality,Al Khalidiyah,50M-200M,conservative,medium,86
+INV-160,private_equity,commercial,Al Bateen,8M-40M,conservative,medium,70
+INV-161,private_equity,commercial,Al Khalidiyah,400M-1.5B,aggressive,medium,74
+INV-162,family_office,mixed_use,Masdar City,150M-600M,balanced,medium,74
+INV-163,reit,residential,Mohammed Bin Zayed City,30M-120M,balanced,long,77
+INV-164,private_equity,residential,Yas Island,30M-120M,aggressive,medium,68
+INV-165,private_equity,residential,Masdar City,500M-2B,balanced,long,97
+INV-166,family_office,logistics,Al Reef,150M-600M,aggressive,medium,83
+INV-167,private_equity,mixed_use,Corniche,400M-1.5B,conservative,long,63
+INV-168,reit,industrial,Al Maqta,8M-40M,balanced,medium,73
+INV-169,developer,logistics,Al Maryah Island,50M-200M,conservative,long,76
+INV-170,hnwi,residential,Mohammed Bin Zayed City,30M-120M,balanced,short,84
+INV-171,reit,hospitality,Al Reef,400M-1.5B,balanced,medium,60
+INV-172,private_equity,industrial,Al Reef,30M-120M,aggressive,long,69
+INV-173,reit,residential,Yas Island,150M-600M,balanced,short,87
+INV-174,hnwi,hospitality,Corniche,100M-400M,conservative,long,81
+INV-175,developer,logistics,Al Zahiyah,8M-40M,aggressive,medium,91
+INV-176,institutional,logistics,Al Khalidiyah,100M-400M,conservative,long,80
+INV-177,hnwi,residential,Al Zahiyah,100M-400M,balanced,medium,80
+INV-178,hnwi,mixed_use,Khalifa City,30M-120M,conservative,long,84
+INV-179,hnwi,mixed_use,Danet Abu Dhabi,150M-600M,conservative,medium,85
+INV-180,family_office,residential,Al Maryah Island,400M-1.5B,conservative,short,76
+INV-181,developer,industrial,Mohammed Bin Zayed City,600M-2.5B,conservative,medium,74
+INV-182,reit,residential,Al Reem Island,15M-60M,aggressive,short,78
+INV-183,family_office,commercial,Al Raha Beach,200M-800M,aggressive,medium,96
+INV-184,hnwi,hospitality,Al Shamkha,30M-120M,conservative,long,81
+INV-185,hnwi,commercial,Zayed City,200M-800M,balanced,medium,68
+INV-186,hnwi,logistics,Al Zahiyah,100M-400M,aggressive,short,89
+INV-187,hnwi,residential,Al Reef,500M-2B,conservative,short,74
+INV-188,family_office,residential,Al Bateen,400M-1.5B,balanced,long,62
+INV-189,private_equity,hospitality,Mussafah,30M-120M,conservative,medium,76
+INV-190,sovereign_fund,logistics,Al Raha Beach,15M-60M,aggressive,long,80
+INV-191,hnwi,industrial,Zayed City,150M-600M,aggressive,long,84
+INV-192,private_equity,industrial,Al Bateen,200M-800M,aggressive,long,77
+INV-193,hnwi,residential,Al Raha Beach,100M-400M,balanced,medium,73
+INV-194,hnwi,mixed_use,Mohammed Bin Zayed City,500M-2B,aggressive,long,72
+INV-195,hnwi,community,Danet Abu Dhabi,600M-2.5B,aggressive,long,67
+INV-196,reit,commercial,Masdar City,50M-200M,aggressive,medium,89
+INV-197,family_office,residential,Al Reef,600M-2.5B,conservative,long,71
+INV-198,hnwi,residential,Zayed City,30M-120M,conservative,medium,99
+INV-199,hnwi,mixed_use,Mohammed Bin Zayed City,600M-2.5B,conservative,medium,85
+INV-200,hnwi,commercial,Masdar City,600M-2.5B,balanced,long,79

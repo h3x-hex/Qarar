@@ -1,0 +1,7 @@
+pandas>=2.0
+
+# Optional — uncomment the provider you want to connect:
+# anthropic>=0.40
+# openai>=1.50
+# transformers>=4.44
+# requests>=2.31   # for Ollama / custom APIs

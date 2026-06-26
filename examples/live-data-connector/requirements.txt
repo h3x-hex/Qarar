@@ -1,0 +1,3 @@
+pandas>=2.0
+# HTTP uses the standard library (urllib) — no extra deps.
+# The key is read from the UAE_DATA_API_KEY environment variable (never commit it).

@@ -1,0 +1,21 @@
+district,area_type,profile,base_sale_aed_sqm,gross_yield_pct,infrastructure_score,latitude,longitude,established_year
+Saadiyat Island,island,premium,19000,6.0,92,24.545,54.431,2009
+Al Maryah Island,island,premium,22000,6.0,96,24.5,54.39,2014
+Yas Island,island,leisure,14000,7.0,88,24.49,54.603,2009
+Al Reem Island,island,mid_high,13000,7.5,86,24.493,54.406,2010
+Al Raha Beach,waterfront,high,14500,7.0,87,24.46,54.61,2011
+Al Bateen,waterfront,premium,16000,6.0,90,24.452,54.332,1990
+Corniche,central,established,15000,6.5,93,24.472,54.338,1980
+Al Khalidiyah,central,established,13500,6.8,89,24.466,54.349,1985
+Al Zahiyah,central,mid,11000,7.5,80,24.49,54.372,1982
+Danet Abu Dhabi,central,mid_high,12000,7.0,82,24.431,54.39,2008
+Masdar City,mainland,innovation,12000,7.0,90,24.43,54.614,2010
+Khalifa City,mainland,mid,9500,7.5,72,24.42,54.58,2002
+Mohammed Bin Zayed City,mainland,mid_affordable,8500,8.0,68,24.32,54.54,2001
+Zayed City,mainland,emerging,9000,7.5,70,24.33,54.55,2018
+Al Maqta,mainland,mid,9000,7.5,74,24.4,54.51,2004
+Al Shamkha,mainland,affordable,7500,8.5,63,24.34,54.72,2012
+Al Reef,mainland,affordable,7000,8.5,65,24.43,54.7,2009
+Al Ghadeer,border,affordable,6500,9.0,60,24.3,54.78,2011
+Al Bahia,coastal,mid,8000,8.0,67,24.55,54.66,2006
+Mussafah,mainland,industrial,6000,8.5,66,24.35,54.5,1995

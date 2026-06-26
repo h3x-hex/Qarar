@@ -1,0 +1,91 @@
+community_id,district,population_estimate,occupancy_rate,service_demand_index,mobility_score,resident_experience_score,optimization_opportunity
+COM-001,Zayed City,44121,0.88,77,68,70,expand_retail_offering
+COM-002,Corniche,95793,0.94,55,92,92,improve_cycle_paths
+COM-003,Al Maryah Island,30291,0.89,43,95,92,add_clinic_capacity
+COM-004,Khalifa City,130973,0.98,76,73,74,accelerate_transit_link
+COM-005,Mohammed Bin Zayed City,4000,0.82,86,51,68,accelerate_transit_link
+COM-006,Yas Island,7507,0.81,64,87,82,add_nursery_capacity
+COM-007,Mohammed Bin Zayed City,105032,0.85,74,59,69,accelerate_transit_link
+COM-008,Al Zahiyah,62972,0.72,71,64,76,add_community_events
+COM-009,Masdar City,109934,0.95,37,85,92,improve_cycle_paths
+COM-010,Al Ghadeer,45923,0.86,73,64,86,reduce_parking_pressure
+COM-011,Al Maryah Island,57292,0.88,51,95,92,improve_bus_coverage
+COM-012,Al Maryah Island,20875,0.81,53,84,92,reduce_parking_pressure
+COM-013,Masdar City,26990,0.86,35,81,92,add_nursery_capacity
+COM-014,Al Reem Island,164322,0.95,65,87,86,improve_bus_coverage
+COM-015,Saadiyat Island,60731,0.81,51,95,92,improve_cycle_paths
+COM-016,Al Maryah Island,97585,0.81,51,75,92,add_nursery_capacity
+COM-017,Yas Island,74165,0.78,61,76,82,add_clinic_capacity
+COM-018,Al Raha Beach,12974,0.79,56,79,92,improve_last_mile_transit
+COM-019,Al Zahiyah,12841,0.98,67,78,92,improve_last_mile_transit
+COM-020,Al Maryah Island,72787,0.9,50,87,92,add_community_events
+COM-021,Mohammed Bin Zayed City,109069,0.86,71,60,75,expand_retail_offering
+COM-022,Al Maqta,33838,0.9,65,59,92,improve_bus_coverage
+COM-023,Al Bateen,77782,0.93,60,71,92,improve_park_access
+COM-024,Masdar City,31819,0.88,37,95,92,accelerate_transit_link
+COM-025,Al Shamkha,85710,0.81,84,54,71,accelerate_transit_link
+COM-026,Danet Abu Dhabi,75443,0.98,58,65,86,add_community_events
+COM-027,Al Bateen,4000,0.89,60,77,88,reduce_parking_pressure
+COM-028,Saadiyat Island,123421,0.94,45,70,92,expand_retail_offering
+COM-029,Al Maryah Island,4000,0.86,60,90,84,reduce_parking_pressure
+COM-030,Danet Abu Dhabi,63580,0.74,64,73,82,improve_bus_coverage
+COM-031,Al Bateen,4000,0.95,47,85,92,improve_cycle_paths
+COM-032,Corniche,120699,0.98,58,93,81,improve_last_mile_transit
+COM-033,Al Reef,24101,0.86,72,57,78,add_community_events
+COM-034,Al Khalidiyah,87846,0.92,47,75,92,expand_school_capacity
+COM-035,Al Khalidiyah,4000,0.89,55,77,92,add_grocery_retail
+COM-036,Yas Island,10770,0.88,58,73,92,accelerate_transit_link
+COM-037,Danet Abu Dhabi,36294,0.72,67,77,82,improve_bus_coverage
+COM-038,Al Ghadeer,124066,0.81,83,60,69,add_grocery_retail
+COM-039,Danet Abu Dhabi,66948,0.69,52,74,92,add_grocery_retail
+COM-040,Al Bahia,92958,0.84,67,70,77,expand_retail_offering
+COM-041,Zayed City,32634,0.98,76,66,72,expand_school_capacity
+COM-042,Masdar City,33556,0.93,39,80,92,accelerate_transit_link
+COM-043,Al Khalidiyah,13268,0.9,59,63,92,expand_retail_offering
+COM-044,Al Bahia,32468,0.9,63,57,92,improve_cycle_paths
+COM-045,Yas Island,20608,0.86,62,85,85,improve_last_mile_transit
+COM-046,Yas Island,100192,0.89,55,88,84,expand_retail_offering
+COM-047,Masdar City,99314,0.93,53,82,92,improve_bus_coverage
+COM-048,Al Bateen,56518,0.82,51,95,92,expand_school_capacity
+COM-049,Mussafah,51035,0.92,75,67,66,improve_cycle_paths
+COM-050,Mussafah,65215,0.84,88,62,74,improve_park_access
+COM-051,Corniche,117696,0.88,64,84,92,add_community_events
+COM-052,Al Bahia,4000,0.93,65,60,92,add_nursery_capacity
+COM-053,Al Bateen,111133,0.89,55,95,87,improve_cycle_paths
+COM-054,Al Raha Beach,116502,0.94,49,70,92,add_clinic_capacity
+COM-055,Mussafah,61827,0.89,83,61,59,add_community_events
+COM-056,Al Raha Beach,18406,0.8,62,84,88,improve_park_access
+COM-057,Danet Abu Dhabi,50627,0.92,63,95,89,reduce_parking_pressure
+COM-058,Al Reem Island,93667,0.94,63,76,84,add_community_events
+COM-059,Danet Abu Dhabi,14672,0.82,73,73,83,reduce_parking_pressure
+COM-060,Al Raha Beach,35479,0.85,57,93,86,reduce_parking_pressure
+COM-061,Mohammed Bin Zayed City,4000,0.84,84,70,62,add_nursery_capacity
+COM-062,Danet Abu Dhabi,60502,0.89,62,76,81,accelerate_transit_link
+COM-063,Al Raha Beach,73678,0.98,54,75,92,improve_cycle_paths
+COM-064,Yas Island,108183,0.89,60,92,92,expand_retail_offering
+COM-065,Al Zahiyah,114246,0.89,69,61,77,add_clinic_capacity
+COM-066,Al Maryah Island,163059,0.79,43,95,92,improve_bus_coverage
+COM-067,Al Bateen,34271,0.89,44,84,92,add_community_events
+COM-068,Al Bateen,91131,0.79,51,88,92,accelerate_transit_link
+COM-069,Al Maqta,123652,0.9,74,73,80,expand_school_capacity
+COM-070,Al Maqta,49697,0.93,62,72,89,add_community_events
+COM-071,Masdar City,117110,0.89,44,79,92,add_grocery_retail
+COM-072,Al Khalidiyah,41168,0.93,64,95,87,improve_last_mile_transit
+COM-073,Al Ghadeer,77098,0.91,78,45,69,improve_last_mile_transit
+COM-074,Al Khalidiyah,109790,0.96,61,86,92,add_community_events
+COM-075,Danet Abu Dhabi,119621,0.96,61,66,86,add_nursery_capacity
+COM-076,Mussafah,38686,0.95,82,64,57,improve_bus_coverage
+COM-077,Al Khalidiyah,74790,0.98,51,91,92,expand_retail_offering
+COM-078,Corniche,75032,0.88,50,76,92,add_community_events
+COM-079,Mussafah,66315,0.84,83,65,71,expand_school_capacity
+COM-080,Danet Abu Dhabi,74658,0.94,54,81,92,improve_cycle_paths
+COM-081,Al Khalidiyah,156211,0.81,56,87,92,improve_cycle_paths
+COM-082,Al Reem Island,29330,0.88,47,77,92,add_nursery_capacity
+COM-083,Masdar City,60563,0.91,42,95,92,add_clinic_capacity
+COM-084,Khalifa City,102949,0.83,69,58,84,reduce_parking_pressure
+COM-085,Al Bahia,80908,0.92,57,59,92,add_clinic_capacity
+COM-086,Corniche,9355,0.98,58,79,89,add_nursery_capacity
+COM-087,Saadiyat Island,129643,0.81,43,91,92,expand_retail_offering
+COM-088,Corniche,83922,0.98,50,88,92,add_nursery_capacity
+COM-089,Al Zahiyah,118283,0.86,67,73,78,improve_last_mile_transit
+COM-090,Corniche,6764,0.82,50,88,92,improve_park_access

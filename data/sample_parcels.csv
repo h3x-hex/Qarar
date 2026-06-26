@@ -1,0 +1,601 @@
+parcel_id,district,zone,land_use,parcel_size_sqm,current_status,infrastructure_score,development_potential_score,estimated_value_aed,recommended_use
+PRC-0001,Al Bahia,Z-RES-01,residential,6297,under_development,61,46,17880000,high_rise_residential
+PRC-0002,Al Ghadeer,Z-RES-05,residential,14029,vacant,60,65,28260000,mid_rise_residential
+PRC-0003,Al Zahiyah,Z-MIX-04,mixed_use,12905,developed,80,68,62640000,cultural_mixed_use
+PRC-0004,Danet Abu Dhabi,Z-MIX-04,mixed_use,17322,developed,84,66,54270000,cultural_mixed_use
+PRC-0005,Mohammed Bin Zayed City,Z-COM-05,commercial,6968,developed,69,78,20860000,financial_offices
+PRC-0006,Corniche,Z-MIX-05,mixed_use,19613,under_development,95,63,118230000,marina_mixed_use
+PRC-0007,Al Ghadeer,Z-CMU-03,community,15037,vacant,56,77,26170000,university_expansion
+PRC-0008,Yas Island,Z-HOS-02,hospitality,21707,developed,74,57,93710000,marina_hotel
+PRC-0009,Al Maryah Island,Z-RES-02,residential,13152,vacant,93,89,146780000,sustainable_residential
+PRC-0010,Al Maryah Island,Z-MIX-03,mixed_use,12467,developed,94,85,123550000,transit_oriented_development
+PRC-0011,Mohammed Bin Zayed City,Z-CMU-03,community,8660,under_development,62,47,21540000,university_expansion
+PRC-0012,Mohammed Bin Zayed City,Z-RES-01,residential,7168,vacant,75,88,22890000,beachfront_residential
+PRC-0013,Zayed City,Z-RES-05,residential,18410,developed,73,75,63090000,beachfront_residential
+PRC-0014,Danet Abu Dhabi,Z-COM-02,commercial,8712,under_development,81,85,41850000,financial_offices
+PRC-0015,Danet Abu Dhabi,Z-RES-02,residential,10895,under_development,84,63,44710000,affordable_housing
+PRC-0016,Al Shamkha,Z-MIX-01,mixed_use,26832,under_development,61,84,63640000,cultural_mixed_use
+PRC-0017,Mussafah,Z-RES-03,residential,10458,developed,67,92,15840000,low_rise_residential
+PRC-0018,Mohammed Bin Zayed City,Z-HOS-05,hospitality,10214,vacant,58,83,19170000,urban_boutique_hotel
+PRC-0019,Zayed City,Z-RES-05,residential,11964,developed,64,88,35420000,low_rise_residential
+PRC-0020,Mohammed Bin Zayed City,Z-RES-04,residential,20646,developed,75,52,56130000,sustainable_residential
+PRC-0021,Corniche,Z-CMU-03,community,12220,under_development,95,41,67570000,school_campus
+PRC-0022,Saadiyat Island,Z-COM-04,commercial,8435,vacant,90,73,60800000,entertainment_retail
+PRC-0023,Al Maqta,Z-RES-01,residential,11592,vacant,70,79,34000000,beachfront_residential
+PRC-0024,Saadiyat Island,Z-CMU-03,community,8945,reserved,99,66,65000000,civic_center
+PRC-0025,Al Reef,Z-CMU-02,community,10629,reserved,60,74,27800000,university_expansion
+PRC-0026,Mussafah,Z-MIX-05,mixed_use,22143,vacant,73,76,51710000,transit_oriented_development
+PRC-0027,Al Maqta,Z-HOS-01,hospitality,19127,under_development,77,75,60770000,urban_boutique_hotel
+PRC-0028,Mohammed Bin Zayed City,Z-CMU-05,community,17595,developed,69,65,36230000,university_expansion
+PRC-0029,Zayed City,Z-COM-01,commercial,7807,vacant,80,81,29120000,entertainment_retail
+PRC-0030,Saadiyat Island,Z-CMU-03,community,8531,developed,90,67,68020000,civic_center
+PRC-0031,Al Maryah Island,Z-MIX-04,mixed_use,12920,vacant,86,45,123270000,marina_mixed_use
+PRC-0032,Al Khalidiyah,Z-MIX-04,mixed_use,18674,vacant,70,66,86000000,premium_mixed_use
+PRC-0033,Al Khalidiyah,Z-HOS-05,hospitality,17079,vacant,81,89,95520000,marina_hotel
+PRC-0034,Al Bahia,Z-IND-01,industrial,18170,under_development,62,76,50670000,light_logistics
+PRC-0035,Al Maryah Island,Z-HOS-01,hospitality,13039,reserved,100,55,81910000,marina_hotel
+PRC-0036,Al Reem Island,Z-RES-05,residential,11996,reserved,83,91,53340000,high_rise_residential
+PRC-0037,Al Zahiyah,Z-RES-01,residential,15371,developed,89,62,53340000,beachfront_residential
+PRC-0038,Al Zahiyah,Z-MIX-03,mixed_use,19039,developed,77,53,60780000,premium_mixed_use
+PRC-0039,Al Reem Island,Z-RES-04,residential,10246,under_development,86,73,50950000,high_rise_residential
+PRC-0040,Saadiyat Island,Z-MIX-03,mixed_use,28663,under_development,100,69,217320000,transit_oriented_development
+PRC-0041,Al Reef,Z-IND-05,industrial,24156,reserved,63,67,53980000,light_logistics
+PRC-0042,Masdar City,Z-RES-02,residential,8748,vacant,82,65,39870000,high_rise_residential
+PRC-0043,Al Khalidiyah,Z-COM-04,commercial,5161,vacant,91,38,25590000,financial_offices
+PRC-0044,Al Reef,Z-MIX-03,mixed_use,8949,under_development,62,78,21680000,marina_mixed_use
+PRC-0045,Al Maqta,Z-HOS-05,hospitality,13236,under_development,72,50,33500000,urban_boutique_hotel
+PRC-0046,Al Reem Island,Z-RES-05,residential,18689,vacant,91,63,75020000,high_rise_residential
+PRC-0047,Mohammed Bin Zayed City,Z-RES-01,residential,17917,developed,73,53,45590000,low_rise_residential
+PRC-0048,Masdar City,Z-CMU-04,community,13700,developed,81,82,59550000,civic_center
+PRC-0049,Al Reef,Z-RES-03,residential,24344,under_development,53,77,71490000,mid_rise_residential
+PRC-0050,Al Maqta,Z-RES-03,residential,20575,under_development,62,60,64140000,high_rise_residential
+PRC-0051,Corniche,Z-RES-02,residential,14457,vacant,93,66,80000000,high_rise_residential
+PRC-0052,Khalifa City,Z-COM-03,commercial,10646,developed,76,98,28620000,entertainment_retail
+PRC-0053,Al Reef,Z-COM-01,commercial,6721,reserved,75,51,19490000,financial_offices
+PRC-0054,Al Reef,Z-CMU-03,community,14266,developed,67,53,30250000,school_campus
+PRC-0055,Al Zahiyah,Z-COM-04,commercial,11674,vacant,79,71,45380000,innovation_offices
+PRC-0056,Al Maryah Island,Z-MIX-02,mixed_use,10338,reserved,100,39,77230000,premium_mixed_use
+PRC-0057,Masdar City,Z-RES-02,residential,17169,vacant,93,69,84410000,low_rise_residential
+PRC-0058,Al Bateen,Z-IND-04,industrial,16884,reserved,84,76,83360000,cleantech_manufacturing
+PRC-0059,Al Bahia,Z-RES-03,residential,21370,developed,69,59,44440000,mid_rise_residential
+PRC-0060,Al Bahia,Z-CMU-01,community,15715,reserved,59,70,44500000,healthcare_cluster
+PRC-0061,Al Maryah Island,Z-COM-04,commercial,6922,developed,87,71,42500000,neighborhood_retail
+PRC-0062,Mussafah,Z-RES-01,residential,8215,developed,69,66,19470000,high_rise_residential
+PRC-0063,Al Reef,Z-IND-05,industrial,23567,under_development,72,61,54480000,warehousing_hub
+PRC-0064,Al Khalidiyah,Z-COM-04,commercial,9755,developed,92,58,45990000,innovation_offices
+PRC-0065,Mussafah,Z-MIX-05,mixed_use,23711,under_development,67,61,47920000,cultural_mixed_use
+PRC-0066,Danet Abu Dhabi,Z-RES-05,residential,22408,under_development,84,67,86910000,high_rise_residential
+PRC-0067,Masdar City,Z-MIX-02,mixed_use,12130,vacant,99,70,49720000,transit_oriented_development
+PRC-0068,Yas Island,Z-RES-03,residential,16599,developed,94,67,76900000,beachfront_residential
+PRC-0069,Al Maqta,Z-RES-05,residential,24753,vacant,68,93,71600000,affordable_housing
+PRC-0070,Saadiyat Island,Z-RES-04,residential,12727,developed,99,68,97280000,low_rise_residential
+PRC-0071,Al Zahiyah,Z-RES-02,residential,11914,under_development,77,68,49540000,high_rise_residential
+PRC-0072,Saadiyat Island,Z-HOS-01,hospitality,14118,reserved,89,92,109700000,marina_hotel
+PRC-0073,Khalifa City,Z-MIX-01,mixed_use,9561,vacant,71,85,26390000,transit_oriented_development
+PRC-0074,Al Maryah Island,Z-COM-04,commercial,5160,developed,99,71,43150000,neighborhood_retail
+PRC-0075,Al Reef,Z-COM-03,commercial,4698,developed,59,100,12400000,coworking_offices
+PRC-0076,Corniche,Z-CMU-02,community,15282,vacant,83,64,116370000,civic_center
+PRC-0077,Al Maqta,Z-COM-04,commercial,11750,developed,72,71,37240000,innovation_offices
+PRC-0078,Al Maqta,Z-RES-03,residential,6224,under_development,74,51,15250000,sustainable_residential
+PRC-0079,Al Raha Beach,Z-CMU-04,community,15899,vacant,84,67,80690000,healthcare_cluster
+PRC-0080,Al Maqta,Z-HOS-02,hospitality,12029,developed,66,77,37370000,urban_boutique_hotel
+PRC-0081,Mohammed Bin Zayed City,Z-CMU-02,community,14933,developed,73,75,38610000,healthcare_cluster
+PRC-0082,Al Bahia,Z-MIX-04,mixed_use,10596,under_development,60,59,30300000,marina_mixed_use
+PRC-0083,Al Bahia,Z-MIX-05,mixed_use,14845,vacant,67,68,54310000,marina_mixed_use
+PRC-0084,Corniche,Z-RES-03,residential,17017,developed,100,69,80640000,beachfront_residential
+PRC-0085,Al Raha Beach,Z-HOS-02,hospitality,18825,vacant,71,80,67610000,urban_boutique_hotel
+PRC-0086,Al Zahiyah,Z-CMU-02,community,13033,under_development,73,82,67250000,school_campus
+PRC-0087,Yas Island,Z-RES-03,residential,13050,developed,80,94,63120000,sustainable_residential
+PRC-0088,Al Bateen,Z-RES-01,residential,20152,developed,94,90,131700000,sustainable_residential
+PRC-0089,Al Zahiyah,Z-HOS-01,hospitality,8508,vacant,72,46,29710000,urban_boutique_hotel
+PRC-0090,Al Bateen,Z-IND-02,industrial,17083,reserved,87,83,82460000,light_logistics
+PRC-0091,Khalifa City,Z-COM-04,commercial,5550,vacant,76,78,18610000,entertainment_retail
+PRC-0092,Khalifa City,Z-COM-01,commercial,9947,under_development,60,83,38650000,entertainment_retail
+PRC-0093,Al Bahia,Z-IND-02,industrial,24806,vacant,74,92,82900000,cleantech_manufacturing
+PRC-0094,Khalifa City,Z-MIX-02,mixed_use,20675,under_development,68,75,90100000,cultural_mixed_use
+PRC-0095,Al Maqta,Z-MIX-02,mixed_use,21958,vacant,76,54,84280000,cultural_mixed_use
+PRC-0096,Al Ghadeer,Z-MIX-03,mixed_use,22040,vacant,63,87,43900000,marina_mixed_use
+PRC-0097,Khalifa City,Z-RES-05,residential,24533,developed,75,62,56450000,sustainable_residential
+PRC-0098,Mohammed Bin Zayed City,Z-RES-02,residential,9984,vacant,64,74,31790000,low_rise_residential
+PRC-0099,Al Khalidiyah,Z-COM-03,commercial,6440,developed,88,90,25590000,financial_offices
+PRC-0100,Zayed City,Z-COM-04,commercial,4995,under_development,69,100,13470000,neighborhood_retail
+PRC-0101,Corniche,Z-RES-01,residential,22035,under_development,92,94,92730000,mid_rise_residential
+PRC-0102,Al Bahia,Z-RES-04,residential,13653,developed,67,59,40070000,high_rise_residential
+PRC-0103,Zayed City,Z-COM-01,commercial,9618,vacant,72,52,25490000,financial_offices
+PRC-0104,Al Ghadeer,Z-COM-05,commercial,10062,developed,62,84,15380000,innovation_offices
+PRC-0105,Mussafah,Z-IND-01,industrial,15046,under_development,74,76,29720000,cleantech_manufacturing
+PRC-0106,Al Reef,Z-MIX-02,mixed_use,23493,under_development,68,84,57490000,marina_mixed_use
+PRC-0107,Al Maqta,Z-CMU-01,community,13563,developed,76,72,48210000,healthcare_cluster
+PRC-0108,Yas Island,Z-MIX-04,mixed_use,23828,vacant,96,85,131560000,waterfront_mixed_use
+PRC-0109,Al Maryah Island,Z-RES-02,residential,12574,developed,95,66,73150000,low_rise_residential
+PRC-0110,Al Maqta,Z-IND-03,industrial,15250,under_development,84,84,52170000,warehousing_hub
+PRC-0111,Al Reef,Z-RES-02,residential,18329,developed,72,68,44290000,affordable_housing
+PRC-0112,Al Reem Island,Z-MIX-04,mixed_use,29713,under_development,95,62,139810000,cultural_mixed_use
+PRC-0113,Al Shamkha,Z-IND-03,industrial,42692,developed,61,77,128770000,ev_assembly_facility
+PRC-0114,Al Reem Island,Z-MIX-02,mixed_use,10639,vacant,84,72,57190000,premium_mixed_use
+PRC-0115,Mussafah,Z-COM-03,commercial,3502,vacant,64,59,8280000,entertainment_retail
+PRC-0116,Saadiyat Island,Z-HOS-05,hospitality,13143,vacant,88,100,92470000,urban_boutique_hotel
+PRC-0117,Al Ghadeer,Z-CMU-01,community,8405,developed,59,72,24270000,university_expansion
+PRC-0118,Masdar City,Z-RES-02,residential,17090,under_development,83,80,78130000,sustainable_residential
+PRC-0119,Yas Island,Z-MIX-02,mixed_use,13585,reserved,82,76,78600000,transit_oriented_development
+PRC-0120,Masdar City,Z-HOS-05,hospitality,14388,vacant,100,68,69140000,resort_hospitality
+PRC-0121,Al Shamkha,Z-MIX-04,mixed_use,14511,vacant,63,87,40760000,waterfront_mixed_use
+PRC-0122,Al Maqta,Z-IND-01,industrial,19519,vacant,75,64,48570000,cleantech_manufacturing
+PRC-0123,Al Khalidiyah,Z-MIX-04,mixed_use,22994,developed,91,77,85780000,cultural_mixed_use
+PRC-0124,Yas Island,Z-COM-01,commercial,5196,under_development,73,76,27360000,neighborhood_retail
+PRC-0125,Al Bahia,Z-RES-04,residential,8726,developed,72,84,20200000,affordable_housing
+PRC-0126,Mohammed Bin Zayed City,Z-IND-03,industrial,13214,vacant,66,66,40410000,light_logistics
+PRC-0127,Al Reef,Z-RES-04,residential,24469,vacant,68,78,66260000,mid_rise_residential
+PRC-0128,Al Zahiyah,Z-CMU-02,community,16293,reserved,81,82,60770000,civic_center
+PRC-0129,Mussafah,Z-CMU-01,community,15941,under_development,65,82,41720000,university_expansion
+PRC-0130,Al Khalidiyah,Z-RES-02,residential,8362,developed,91,74,59520000,beachfront_residential
+PRC-0131,Mussafah,Z-COM-01,commercial,9938,developed,74,67,21930000,coworking_offices
+PRC-0132,Al Raha Beach,Z-COM-05,commercial,7070,vacant,87,85,43040000,financial_offices
+PRC-0133,Danet Abu Dhabi,Z-MIX-05,mixed_use,25289,under_development,74,86,88310000,waterfront_mixed_use
+PRC-0134,Zayed City,Z-COM-04,commercial,8810,vacant,74,76,29810000,neighborhood_retail
+PRC-0135,Al Bahia,Z-RES-01,residential,23685,reserved,63,83,70900000,low_rise_residential
+PRC-0136,Al Maryah Island,Z-RES-01,residential,25763,under_development,81,60,189480000,sustainable_residential
+PRC-0137,Al Bateen,Z-HOS-03,hospitality,5534,vacant,88,75,36120000,urban_boutique_hotel
+PRC-0138,Mussafah,Z-HOS-02,hospitality,21456,vacant,60,77,49590000,marina_hotel
+PRC-0139,Yas Island,Z-MIX-01,mixed_use,6870,under_development,93,60,31110000,waterfront_mixed_use
+PRC-0140,Al Reef,Z-RES-04,residential,13230,developed,63,99,23170000,affordable_housing
+PRC-0141,Danet Abu Dhabi,Z-RES-05,residential,24222,reserved,90,68,148130000,mid_rise_residential
+PRC-0142,Danet Abu Dhabi,Z-COM-03,commercial,7956,developed,85,73,39760000,entertainment_retail
+PRC-0143,Mussafah,Z-RES-03,residential,21801,vacant,81,46,59680000,mid_rise_residential
+PRC-0144,Al Ghadeer,Z-MIX-01,mixed_use,25089,developed,55,60,53200000,cultural_mixed_use
+PRC-0145,Corniche,Z-RES-02,residential,6231,under_development,94,100,36630000,sustainable_residential
+PRC-0146,Al Maryah Island,Z-CMU-03,community,8337,developed,84,84,79020000,civic_center
+PRC-0147,Saadiyat Island,Z-CMU-04,community,17219,vacant,87,51,114170000,healthcare_cluster
+PRC-0148,Al Maqta,Z-HOS-04,hospitality,16136,under_development,78,70,67110000,marina_hotel
+PRC-0149,Yas Island,Z-MIX-01,mixed_use,13696,vacant,87,76,73880000,marina_mixed_use
+PRC-0150,Al Reem Island,Z-MIX-03,mixed_use,6260,developed,90,73,19410000,waterfront_mixed_use
+PRC-0151,Al Reef,Z-MIX-03,mixed_use,14546,under_development,49,65,32840000,cultural_mixed_use
+PRC-0152,Al Maqta,Z-COM-02,commercial,11682,under_development,73,54,26670000,innovation_offices
+PRC-0153,Khalifa City,Z-HOS-02,hospitality,18970,developed,69,58,42270000,resort_hospitality
+PRC-0154,Al Shamkha,Z-RES-04,residential,20842,under_development,66,92,60470000,high_rise_residential
+PRC-0155,Al Bahia,Z-HOS-04,hospitality,18035,vacant,75,86,59870000,urban_boutique_hotel
+PRC-0156,Al Reef,Z-RES-02,residential,10217,vacant,75,77,26830000,beachfront_residential
+PRC-0157,Mussafah,Z-RES-04,residential,9884,vacant,69,79,14720000,high_rise_residential
+PRC-0158,Al Bateen,Z-RES-05,residential,15496,under_development,95,60,83620000,low_rise_residential
+PRC-0159,Al Raha Beach,Z-MIX-04,mixed_use,17698,under_development,80,76,80320000,transit_oriented_development
+PRC-0160,Al Maqta,Z-HOS-03,hospitality,21916,vacant,63,68,74120000,resort_hospitality
+PRC-0161,Danet Abu Dhabi,Z-RES-02,residential,18597,under_development,87,96,89500000,high_rise_residential
+PRC-0162,Zayed City,Z-HOS-02,hospitality,21069,under_development,68,69,69200000,urban_boutique_hotel
+PRC-0163,Danet Abu Dhabi,Z-RES-05,residential,24909,vacant,72,54,103270000,beachfront_residential
+PRC-0164,Saadiyat Island,Z-RES-02,residential,17356,under_development,84,70,81730000,sustainable_residential
+PRC-0165,Al Bateen,Z-MIX-02,mixed_use,28806,vacant,80,64,130300000,waterfront_mixed_use
+PRC-0166,Masdar City,Z-HOS-02,hospitality,12697,vacant,97,70,36810000,urban_boutique_hotel
+PRC-0167,Danet Abu Dhabi,Z-HOS-01,hospitality,5177,under_development,81,100,21360000,urban_boutique_hotel
+PRC-0168,Saadiyat Island,Z-RES-04,residential,6776,vacant,93,46,42960000,mid_rise_residential
+PRC-0169,Mohammed Bin Zayed City,Z-HOS-01,hospitality,14191,vacant,70,66,46870000,marina_hotel
+PRC-0170,Al Shamkha,Z-IND-04,industrial,29885,vacant,62,95,92760000,cleantech_manufacturing
+PRC-0171,Corniche,Z-RES-02,residential,8361,under_development,85,100,34530000,sustainable_residential
+PRC-0172,Al Reef,Z-RES-02,residential,10601,vacant,59,67,30510000,beachfront_residential
+PRC-0173,Danet Abu Dhabi,Z-HOS-04,hospitality,10515,vacant,80,40,62060000,resort_hospitality
+PRC-0174,Al Zahiyah,Z-COM-05,commercial,9384,under_development,90,71,40010000,innovation_offices
+PRC-0175,Al Ghadeer,Z-HOS-05,hospitality,13490,reserved,61,59,32030000,urban_boutique_hotel
+PRC-0176,Al Bahia,Z-COM-02,commercial,10958,developed,63,70,35010000,neighborhood_retail
+PRC-0177,Al Khalidiyah,Z-MIX-04,mixed_use,20044,developed,87,84,95400000,waterfront_mixed_use
+PRC-0178,Zayed City,Z-COM-05,commercial,9154,vacant,79,58,29000000,innovation_offices
+PRC-0179,Yas Island,Z-HOS-05,hospitality,12904,developed,89,58,64500000,marina_hotel
+PRC-0180,Mohammed Bin Zayed City,Z-COM-05,commercial,8501,vacant,79,83,32700000,coworking_offices
+PRC-0181,Al Bahia,Z-RES-04,residential,7889,under_development,59,71,27780000,sustainable_residential
+PRC-0182,Khalifa City,Z-CMU-05,community,12452,developed,74,71,54480000,university_expansion
+PRC-0183,Danet Abu Dhabi,Z-CMU-05,community,17029,developed,78,55,56450000,university_expansion
+PRC-0184,Danet Abu Dhabi,Z-HOS-05,hospitality,8254,under_development,68,59,31720000,resort_hospitality
+PRC-0185,Al Bateen,Z-MIX-02,mixed_use,8092,vacant,88,88,43660000,transit_oriented_development
+PRC-0186,Al Bateen,Z-RES-04,residential,21770,under_development,93,74,124850000,low_rise_residential
+PRC-0187,Al Ghadeer,Z-CMU-05,community,17634,vacant,55,89,36750000,healthcare_cluster
+PRC-0188,Danet Abu Dhabi,Z-COM-01,commercial,3813,vacant,77,73,16060000,neighborhood_retail
+PRC-0189,Al Raha Beach,Z-MIX-01,mixed_use,18892,under_development,90,71,91440000,premium_mixed_use
+PRC-0190,Al Bahia,Z-RES-01,residential,17077,vacant,79,72,58370000,affordable_housing
+PRC-0191,Al Khalidiyah,Z-MIX-05,mixed_use,28454,under_development,86,64,161150000,marina_mixed_use
+PRC-0192,Mussafah,Z-MIX-03,mixed_use,25124,developed,56,58,47580000,waterfront_mixed_use
+PRC-0193,Mohammed Bin Zayed City,Z-COM-05,commercial,4318,vacant,79,81,18920000,financial_offices
+PRC-0194,Al Ghadeer,Z-RES-03,residential,20924,under_development,51,75,50970000,low_rise_residential
+PRC-0195,Al Ghadeer,Z-CMU-01,community,14897,developed,56,76,43710000,school_campus
+PRC-0196,Al Khalidiyah,Z-RES-02,residential,12256,developed,83,68,48670000,sustainable_residential
+PRC-0197,Danet Abu Dhabi,Z-HOS-03,hospitality,12386,under_development,79,88,60590000,resort_hospitality
+PRC-0198,Mussafah,Z-RES-02,residential,23337,developed,67,66,60680000,beachfront_residential
+PRC-0199,Al Khalidiyah,Z-COM-01,commercial,10099,vacant,76,73,76440000,coworking_offices
+PRC-0200,Mohammed Bin Zayed City,Z-COM-01,commercial,3638,under_development,61,81,12250000,financial_offices
+PRC-0201,Al Ghadeer,Z-RES-04,residential,23184,under_development,59,76,47580000,mid_rise_residential
+PRC-0202,Danet Abu Dhabi,Z-IND-05,industrial,12141,vacant,99,88,54140000,ev_assembly_facility
+PRC-0203,Zayed City,Z-MIX-03,mixed_use,9138,vacant,63,77,28890000,marina_mixed_use
+PRC-0204,Al Khalidiyah,Z-RES-02,residential,7486,developed,88,87,39290000,beachfront_residential
+PRC-0205,Al Reef,Z-RES-02,residential,12279,vacant,64,68,29870000,beachfront_residential
+PRC-0206,Danet Abu Dhabi,Z-MIX-03,mixed_use,20027,vacant,81,63,93800000,waterfront_mixed_use
+PRC-0207,Al Reef,Z-IND-02,industrial,41859,vacant,59,83,123140000,warehousing_hub
+PRC-0208,Al Zahiyah,Z-IND-04,industrial,21042,under_development,82,74,65060000,cleantech_manufacturing
+PRC-0209,Masdar City,Z-CMU-03,community,10873,under_development,89,84,52940000,university_expansion
+PRC-0210,Khalifa City,Z-RES-03,residential,18841,under_development,68,64,57950000,high_rise_residential
+PRC-0211,Danet Abu Dhabi,Z-COM-01,commercial,5348,vacant,81,91,24470000,coworking_offices
+PRC-0212,Al Shamkha,Z-HOS-05,hospitality,8796,developed,63,91,27110000,marina_hotel
+PRC-0213,Al Raha Beach,Z-RES-03,residential,21495,developed,76,58,103410000,beachfront_residential
+PRC-0214,Al Raha Beach,Z-IND-03,industrial,37651,reserved,80,59,195480000,light_logistics
+PRC-0215,Al Bateen,Z-RES-01,residential,12761,developed,87,81,71660000,sustainable_residential
+PRC-0216,Yas Island,Z-MIX-05,mixed_use,16585,vacant,99,86,78480000,transit_oriented_development
+PRC-0217,Al Reem Island,Z-HOS-04,hospitality,17631,vacant,92,43,76370000,resort_hospitality
+PRC-0218,Al Raha Beach,Z-RES-04,residential,24912,vacant,86,67,97860000,low_rise_residential
+PRC-0219,Al Maryah Island,Z-COM-04,commercial,7290,under_development,82,68,46040000,innovation_offices
+PRC-0220,Corniche,Z-RES-04,residential,13475,vacant,89,49,60590000,high_rise_residential
+PRC-0221,Zayed City,Z-COM-01,commercial,5192,developed,65,68,13570000,neighborhood_retail
+PRC-0222,Saadiyat Island,Z-MIX-01,mixed_use,10575,under_development,86,51,69060000,cultural_mixed_use
+PRC-0223,Al Zahiyah,Z-COM-05,commercial,11617,under_development,79,50,37370000,innovation_offices
+PRC-0224,Mohammed Bin Zayed City,Z-IND-03,industrial,42064,vacant,55,100,99120000,cleantech_manufacturing
+PRC-0225,Danet Abu Dhabi,Z-HOS-02,hospitality,18534,under_development,72,57,137800000,marina_hotel
+PRC-0226,Al Raha Beach,Z-RES-04,residential,19739,vacant,91,79,91860000,high_rise_residential
+PRC-0227,Al Reef,Z-CMU-04,community,16718,reserved,62,53,46040000,healthcare_cluster
+PRC-0228,Al Reef,Z-RES-04,residential,16960,developed,76,94,51400000,mid_rise_residential
+PRC-0229,Saadiyat Island,Z-RES-05,residential,13683,under_development,92,62,88460000,beachfront_residential
+PRC-0230,Al Ghadeer,Z-RES-05,residential,11736,vacant,55,53,22760000,beachfront_residential
+PRC-0231,Al Khalidiyah,Z-IND-04,industrial,32383,vacant,100,75,192240000,light_logistics
+PRC-0232,Al Maqta,Z-RES-02,residential,23775,developed,75,69,83770000,low_rise_residential
+PRC-0233,Al Bateen,Z-RES-02,residential,22608,under_development,95,94,113730000,beachfront_residential
+PRC-0234,Al Zahiyah,Z-CMU-01,community,14101,developed,84,60,46260000,university_expansion
+PRC-0235,Al Shamkha,Z-COM-03,commercial,7554,vacant,54,30,15710000,neighborhood_retail
+PRC-0236,Al Shamkha,Z-RES-03,residential,6620,developed,67,84,16220000,high_rise_residential
+PRC-0237,Corniche,Z-COM-04,commercial,10443,vacant,84,81,42480000,innovation_offices
+PRC-0238,Al Bateen,Z-RES-02,residential,21921,vacant,88,88,107240000,low_rise_residential
+PRC-0239,Al Bahia,Z-RES-04,residential,19969,under_development,72,52,47920000,affordable_housing
+PRC-0240,Corniche,Z-RES-01,residential,11868,vacant,93,68,45310000,beachfront_residential
+PRC-0241,Mohammed Bin Zayed City,Z-HOS-05,hospitality,9149,reserved,71,92,26450000,marina_hotel
+PRC-0242,Zayed City,Z-IND-02,industrial,35326,developed,67,69,126140000,light_logistics
+PRC-0243,Danet Abu Dhabi,Z-RES-03,residential,9286,developed,79,91,38090000,sustainable_residential
+PRC-0244,Khalifa City,Z-IND-02,industrial,25693,vacant,69,54,91660000,warehousing_hub
+PRC-0245,Danet Abu Dhabi,Z-COM-03,commercial,9926,under_development,79,82,45710000,coworking_offices
+PRC-0246,Saadiyat Island,Z-MIX-05,mixed_use,29812,reserved,96,57,225920000,waterfront_mixed_use
+PRC-0247,Al Reem Island,Z-COM-02,commercial,9652,reserved,94,83,43060000,neighborhood_retail
+PRC-0248,Zayed City,Z-MIX-05,mixed_use,27640,under_development,68,100,98940000,marina_mixed_use
+PRC-0249,Al Shamkha,Z-CMU-03,community,12080,vacant,56,68,31560000,healthcare_cluster
+PRC-0250,Corniche,Z-CMU-03,community,11391,under_development,97,77,44120000,university_expansion
+PRC-0251,Al Shamkha,Z-CMU-05,community,17684,vacant,73,70,54500000,school_campus
+PRC-0252,Al Bateen,Z-HOS-04,hospitality,20428,developed,97,66,101550000,urban_boutique_hotel
+PRC-0253,Al Khalidiyah,Z-IND-01,industrial,20878,under_development,86,61,76500000,warehousing_hub
+PRC-0254,Zayed City,Z-RES-05,residential,9424,developed,59,64,34090000,low_rise_residential
+PRC-0255,Mohammed Bin Zayed City,Z-COM-05,commercial,6621,vacant,70,83,14120000,coworking_offices
+PRC-0256,Al Maqta,Z-HOS-05,hospitality,13334,under_development,83,94,44480000,resort_hospitality
+PRC-0257,Al Raha Beach,Z-MIX-04,mixed_use,9328,vacant,94,95,47810000,premium_mixed_use
+PRC-0258,Al Khalidiyah,Z-MIX-03,mixed_use,17916,vacant,97,72,72930000,marina_mixed_use
+PRC-0259,Danet Abu Dhabi,Z-IND-05,industrial,37794,vacant,79,59,163790000,light_logistics
+PRC-0260,Al Bateen,Z-HOS-03,hospitality,17243,vacant,85,82,87330000,urban_boutique_hotel
+PRC-0261,Al Reef,Z-COM-05,commercial,6762,developed,60,95,14060000,innovation_offices
+PRC-0262,Zayed City,Z-COM-05,commercial,9452,under_development,71,61,23480000,innovation_offices
+PRC-0263,Zayed City,Z-RES-05,residential,11622,vacant,71,60,27500000,low_rise_residential
+PRC-0264,Al Bateen,Z-MIX-05,mixed_use,13017,reserved,100,58,63100000,waterfront_mixed_use
+PRC-0265,Saadiyat Island,Z-RES-02,residential,10905,developed,98,81,74790000,affordable_housing
+PRC-0266,Al Reef,Z-COM-05,commercial,10011,developed,67,69,27460000,neighborhood_retail
+PRC-0267,Al Shamkha,Z-HOS-05,hospitality,13369,under_development,68,69,40420000,resort_hospitality
+PRC-0268,Al Khalidiyah,Z-CMU-01,community,12191,developed,81,63,59930000,civic_center
+PRC-0269,Al Maqta,Z-CMU-04,community,16171,vacant,73,57,52530000,school_campus
+PRC-0270,Al Reef,Z-MIX-04,mixed_use,17787,developed,67,91,32220000,marina_mixed_use
+PRC-0271,Mohammed Bin Zayed City,Z-RES-05,residential,7444,developed,69,35,25140000,low_rise_residential
+PRC-0272,Al Raha Beach,Z-RES-01,residential,25591,vacant,84,81,138320000,beachfront_residential
+PRC-0273,Al Reem Island,Z-COM-01,commercial,9319,developed,83,70,40710000,innovation_offices
+PRC-0274,Al Shamkha,Z-HOS-04,hospitality,17556,under_development,56,75,45430000,urban_boutique_hotel
+PRC-0275,Khalifa City,Z-RES-04,residential,23219,vacant,63,59,94120000,mid_rise_residential
+PRC-0276,Khalifa City,Z-COM-04,commercial,5494,vacant,71,74,19010000,neighborhood_retail
+PRC-0277,Al Zahiyah,Z-IND-01,industrial,31439,developed,84,71,97180000,light_logistics
+PRC-0278,Al Raha Beach,Z-RES-02,residential,20082,vacant,82,56,157580000,sustainable_residential
+PRC-0279,Al Reem Island,Z-RES-04,residential,9236,reserved,76,78,35970000,mid_rise_residential
+PRC-0280,Al Bahia,Z-CMU-05,community,8959,under_development,73,100,27410000,healthcare_cluster
+PRC-0281,Zayed City,Z-IND-01,industrial,37563,developed,61,72,99080000,light_logistics
+PRC-0282,Zayed City,Z-IND-03,industrial,42900,vacant,56,66,134790000,ev_assembly_facility
+PRC-0283,Al Ghadeer,Z-HOS-01,hospitality,15178,vacant,68,86,37160000,resort_hospitality
+PRC-0284,Zayed City,Z-RES-01,residential,9582,vacant,76,59,25010000,beachfront_residential
+PRC-0285,Mohammed Bin Zayed City,Z-CMU-01,community,9217,vacant,67,67,24730000,civic_center
+PRC-0286,Mohammed Bin Zayed City,Z-RES-04,residential,19462,vacant,83,84,53830000,sustainable_residential
+PRC-0287,Zayed City,Z-COM-04,commercial,10231,developed,66,72,35780000,financial_offices
+PRC-0288,Khalifa City,Z-RES-04,residential,9215,developed,70,66,24500000,low_rise_residential
+PRC-0289,Al Raha Beach,Z-RES-03,residential,9251,vacant,87,89,53720000,affordable_housing
+PRC-0290,Al Raha Beach,Z-IND-01,industrial,18725,under_development,89,94,114010000,warehousing_hub
+PRC-0291,Al Ghadeer,Z-RES-03,residential,12732,reserved,55,92,28880000,mid_rise_residential
+PRC-0292,Al Maqta,Z-HOS-02,hospitality,13584,under_development,79,78,41490000,urban_boutique_hotel
+PRC-0293,Al Bahia,Z-CMU-05,community,14661,under_development,58,66,32650000,healthcare_cluster
+PRC-0294,Yas Island,Z-COM-04,commercial,8121,developed,91,65,43030000,financial_offices
+PRC-0295,Mohammed Bin Zayed City,Z-RES-02,residential,16460,developed,56,69,38140000,mid_rise_residential
+PRC-0296,Al Maqta,Z-RES-05,residential,6816,vacant,65,89,16390000,low_rise_residential
+PRC-0297,Al Maqta,Z-COM-01,commercial,11422,vacant,75,82,27770000,entertainment_retail
+PRC-0298,Al Reef,Z-MIX-02,mixed_use,26848,developed,71,51,53140000,transit_oriented_development
+PRC-0299,Yas Island,Z-COM-01,commercial,9713,vacant,76,78,60460000,coworking_offices
+PRC-0300,Al Khalidiyah,Z-COM-01,commercial,7109,developed,84,98,37700000,innovation_offices
+PRC-0301,Al Reef,Z-MIX-03,mixed_use,17677,vacant,56,59,41300000,transit_oriented_development
+PRC-0302,Al Zahiyah,Z-IND-02,industrial,14272,vacant,75,60,43430000,warehousing_hub
+PRC-0303,Mohammed Bin Zayed City,Z-RES-01,residential,21979,vacant,70,75,83150000,sustainable_residential
+PRC-0304,Danet Abu Dhabi,Z-COM-05,commercial,10832,under_development,88,77,43430000,entertainment_retail
+PRC-0305,Al Reef,Z-CMU-02,community,13126,developed,72,98,34930000,university_expansion
+PRC-0306,Danet Abu Dhabi,Z-CMU-04,community,17347,developed,87,79,80080000,school_campus
+PRC-0307,Masdar City,Z-MIX-01,mixed_use,22217,developed,83,69,90290000,transit_oriented_development
+PRC-0308,Saadiyat Island,Z-COM-02,commercial,8180,under_development,93,58,65450000,coworking_offices
+PRC-0309,Masdar City,Z-MIX-04,mixed_use,28203,developed,77,76,123850000,cultural_mixed_use
+PRC-0310,Al Raha Beach,Z-MIX-05,mixed_use,24479,developed,92,85,116670000,waterfront_mixed_use
+PRC-0311,Zayed City,Z-RES-04,residential,24493,developed,73,86,130000000,high_rise_residential
+PRC-0312,Danet Abu Dhabi,Z-CMU-03,community,16181,developed,83,70,72180000,school_campus
+PRC-0313,Yas Island,Z-COM-03,commercial,6267,developed,86,63,29870000,neighborhood_retail
+PRC-0314,Danet Abu Dhabi,Z-RES-04,residential,9732,developed,83,52,45130000,affordable_housing
+PRC-0315,Zayed City,Z-COM-05,commercial,6045,under_development,74,62,14560000,coworking_offices
+PRC-0316,Al Zahiyah,Z-RES-02,residential,19819,developed,79,69,98060000,sustainable_residential
+PRC-0317,Masdar City,Z-RES-01,residential,6885,developed,85,100,30770000,mid_rise_residential
+PRC-0318,Corniche,Z-RES-04,residential,13326,vacant,100,76,84030000,sustainable_residential
+PRC-0319,Al Ghadeer,Z-RES-01,residential,24694,vacant,61,54,55100000,high_rise_residential
+PRC-0320,Al Maqta,Z-IND-01,industrial,22083,developed,72,77,86020000,cleantech_manufacturing
+PRC-0321,Al Raha Beach,Z-HOS-01,hospitality,15481,developed,93,97,73000000,marina_hotel
+PRC-0322,Zayed City,Z-COM-02,commercial,11460,vacant,73,41,39190000,neighborhood_retail
+PRC-0323,Al Maryah Island,Z-RES-04,residential,7906,developed,100,63,61660000,low_rise_residential
+PRC-0324,Al Ghadeer,Z-HOS-01,hospitality,6630,vacant,56,61,22480000,resort_hospitality
+PRC-0325,Corniche,Z-CMU-05,community,17208,under_development,78,63,96510000,healthcare_cluster
+PRC-0326,Al Maryah Island,Z-RES-03,residential,25341,developed,100,73,282870000,high_rise_residential
+PRC-0327,Corniche,Z-RES-02,residential,24958,developed,95,89,165940000,mid_rise_residential
+PRC-0328,Al Ghadeer,Z-MIX-01,mixed_use,10427,developed,59,84,18920000,transit_oriented_development
+PRC-0329,Al Reef,Z-CMU-05,community,15961,developed,74,78,39670000,healthcare_cluster
+PRC-0330,Khalifa City,Z-RES-04,residential,6663,vacant,64,85,20830000,mid_rise_residential
+PRC-0331,Al Maryah Island,Z-RES-01,residential,21050,developed,95,86,169090000,beachfront_residential
+PRC-0332,Al Maryah Island,Z-HOS-03,hospitality,15165,under_development,100,78,112820000,urban_boutique_hotel
+PRC-0333,Al Maryah Island,Z-RES-04,residential,11970,vacant,87,61,95040000,sustainable_residential
+PRC-0334,Danet Abu Dhabi,Z-RES-03,residential,16141,vacant,87,38,45430000,low_rise_residential
+PRC-0335,Saadiyat Island,Z-MIX-02,mixed_use,11908,vacant,86,79,121750000,premium_mixed_use
+PRC-0336,Al Maqta,Z-RES-01,residential,15242,vacant,67,33,50600000,affordable_housing
+PRC-0337,Mussafah,Z-MIX-01,mixed_use,26678,under_development,75,50,59360000,cultural_mixed_use
+PRC-0338,Mohammed Bin Zayed City,Z-HOS-01,hospitality,6816,under_development,64,74,16930000,resort_hospitality
+PRC-0339,Al Maryah Island,Z-RES-02,residential,17318,under_development,100,60,134520000,high_rise_residential
+PRC-0340,Saadiyat Island,Z-IND-04,industrial,43357,under_development,91,79,309810000,cleantech_manufacturing
+PRC-0341,Al Zahiyah,Z-RES-01,residential,7441,vacant,79,100,22820000,sustainable_residential
+PRC-0342,Masdar City,Z-RES-01,residential,6547,under_development,92,45,23070000,low_rise_residential
+PRC-0343,Al Maryah Island,Z-HOS-04,hospitality,18366,developed,93,63,129500000,urban_boutique_hotel
+PRC-0344,Al Khalidiyah,Z-RES-04,residential,23367,vacant,83,51,95490000,affordable_housing
+PRC-0345,Corniche,Z-MIX-02,mixed_use,13531,under_development,93,59,56360000,marina_mixed_use
+PRC-0346,Corniche,Z-MIX-02,mixed_use,10702,developed,93,92,58000000,marina_mixed_use
+PRC-0347,Mohammed Bin Zayed City,Z-MIX-02,mixed_use,14461,developed,72,81,39190000,cultural_mixed_use
+PRC-0348,Zayed City,Z-RES-03,residential,15455,vacant,65,86,45150000,mid_rise_residential
+PRC-0349,Saadiyat Island,Z-MIX-03,mixed_use,15406,under_development,98,61,96900000,transit_oriented_development
+PRC-0350,Mussafah,Z-MIX-02,mixed_use,24035,under_development,58,70,57010000,waterfront_mixed_use
+PRC-0351,Saadiyat Island,Z-RES-01,residential,22685,under_development,91,73,116570000,low_rise_residential
+PRC-0352,Al Maqta,Z-MIX-03,mixed_use,9103,developed,72,81,33460000,transit_oriented_development
+PRC-0353,Al Khalidiyah,Z-IND-02,industrial,31261,developed,88,73,132220000,warehousing_hub
+PRC-0354,Al Reef,Z-MIX-01,mixed_use,19801,reserved,68,95,61420000,cultural_mixed_use
+PRC-0355,Al Shamkha,Z-MIX-04,mixed_use,17076,vacant,62,63,39520000,waterfront_mixed_use
+PRC-0356,Al Maqta,Z-HOS-03,hospitality,12448,vacant,71,75,40220000,marina_hotel
+PRC-0357,Al Bateen,Z-COM-04,commercial,3613,reserved,99,66,20020000,innovation_offices
+PRC-0358,Mussafah,Z-MIX-03,mixed_use,10906,under_development,67,64,23390000,transit_oriented_development
+PRC-0359,Mohammed Bin Zayed City,Z-MIX-02,mixed_use,17171,developed,67,77,42490000,premium_mixed_use
+PRC-0360,Al Khalidiyah,Z-IND-02,industrial,36108,vacant,82,71,182830000,light_logistics
+PRC-0361,Al Bahia,Z-CMU-05,community,10433,under_development,64,82,28460000,healthcare_cluster
+PRC-0362,Mussafah,Z-RES-03,residential,13536,vacant,69,86,28360000,beachfront_residential
+PRC-0363,Mohammed Bin Zayed City,Z-CMU-02,community,13134,under_development,69,97,49390000,school_campus
+PRC-0364,Al Bahia,Z-COM-01,commercial,6736,under_development,68,69,18320000,neighborhood_retail
+PRC-0365,Masdar City,Z-IND-02,industrial,40668,developed,95,73,178420000,cleantech_manufacturing
+PRC-0366,Al Maqta,Z-RES-05,residential,17431,reserved,69,69,55920000,mid_rise_residential
+PRC-0367,Al Reef,Z-COM-01,commercial,5552,under_development,73,75,13060000,entertainment_retail
+PRC-0368,Yas Island,Z-HOS-01,hospitality,12722,vacant,92,72,49850000,urban_boutique_hotel
+PRC-0369,Al Maryah Island,Z-IND-01,industrial,37027,under_development,93,73,410120000,light_logistics
+PRC-0370,Saadiyat Island,Z-MIX-04,mixed_use,19334,under_development,98,64,118210000,waterfront_mixed_use
+PRC-0371,Zayed City,Z-CMU-03,community,15882,vacant,60,56,47840000,healthcare_cluster
+PRC-0372,Al Maqta,Z-HOS-02,hospitality,10791,vacant,72,69,40310000,urban_boutique_hotel
+PRC-0373,Al Ghadeer,Z-RES-04,residential,10389,developed,47,78,19960000,low_rise_residential
+PRC-0374,Danet Abu Dhabi,Z-IND-02,industrial,34832,developed,85,70,167810000,warehousing_hub
+PRC-0375,Al Ghadeer,Z-HOS-03,hospitality,11104,under_development,66,91,26100000,marina_hotel
+PRC-0376,Danet Abu Dhabi,Z-MIX-04,mixed_use,28836,developed,74,82,134530000,cultural_mixed_use
+PRC-0377,Al Ghadeer,Z-MIX-05,mixed_use,13437,vacant,57,38,39080000,cultural_mixed_use
+PRC-0378,Saadiyat Island,Z-COM-02,commercial,10333,vacant,97,63,70730000,neighborhood_retail
+PRC-0379,Al Bahia,Z-MIX-02,mixed_use,24259,vacant,71,93,68710000,cultural_mixed_use
+PRC-0380,Khalifa City,Z-MIX-05,mixed_use,26160,developed,82,66,72500000,transit_oriented_development
+PRC-0381,Al Ghadeer,Z-IND-05,industrial,32954,developed,66,100,61390000,ev_assembly_facility
+PRC-0382,Corniche,Z-RES-02,residential,16763,under_development,88,73,84750000,low_rise_residential
+PRC-0383,Al Shamkha,Z-RES-02,residential,20852,developed,69,67,62740000,high_rise_residential
+PRC-0384,Danet Abu Dhabi,Z-HOS-05,hospitality,9428,vacant,93,88,32710000,urban_boutique_hotel
+PRC-0385,Al Maqta,Z-MIX-02,mixed_use,9331,developed,69,48,29890000,premium_mixed_use
+PRC-0386,Al Bateen,Z-RES-04,residential,25360,under_development,89,86,106250000,affordable_housing
+PRC-0387,Yas Island,Z-MIX-04,mixed_use,10347,developed,89,58,55240000,waterfront_mixed_use
+PRC-0388,Khalifa City,Z-RES-04,residential,15071,reserved,63,87,41030000,low_rise_residential
+PRC-0389,Mussafah,Z-RES-02,residential,14501,under_development,77,69,34360000,sustainable_residential
+PRC-0390,Saadiyat Island,Z-RES-02,residential,8656,vacant,83,76,48200000,mid_rise_residential
+PRC-0391,Masdar City,Z-RES-04,residential,23092,under_development,91,81,106390000,sustainable_residential
+PRC-0392,Al Khalidiyah,Z-COM-01,commercial,5298,vacant,93,76,16800000,entertainment_retail
+PRC-0393,Al Reef,Z-HOS-05,hospitality,6325,under_development,73,71,16700000,marina_hotel
+PRC-0394,Corniche,Z-RES-04,residential,23149,under_development,92,74,82340000,mid_rise_residential
+PRC-0395,Al Maqta,Z-MIX-04,mixed_use,19969,under_development,72,83,70440000,premium_mixed_use
+PRC-0396,Al Bahia,Z-RES-01,residential,23757,under_development,72,76,63530000,affordable_housing
+PRC-0397,Al Reem Island,Z-CMU-05,community,8410,under_development,85,59,33000000,healthcare_cluster
+PRC-0398,Al Shamkha,Z-HOS-01,hospitality,19224,developed,63,62,54670000,marina_hotel
+PRC-0399,Al Maqta,Z-MIX-04,mixed_use,12160,vacant,72,80,28450000,waterfront_mixed_use
+PRC-0400,Al Maqta,Z-COM-05,commercial,9956,under_development,65,51,38040000,innovation_offices
+PRC-0401,Al Reef,Z-IND-01,industrial,18335,under_development,67,58,50250000,light_logistics
+PRC-0402,Al Zahiyah,Z-HOS-01,hospitality,5116,developed,85,88,17750000,urban_boutique_hotel
+PRC-0403,Mussafah,Z-HOS-05,hospitality,8160,vacant,51,47,14310000,resort_hospitality
+PRC-0404,Zayed City,Z-MIX-01,mixed_use,14881,developed,71,98,36290000,waterfront_mixed_use
+PRC-0405,Al Reem Island,Z-RES-01,residential,25253,vacant,83,86,116860000,low_rise_residential
+PRC-0406,Yas Island,Z-CMU-01,community,15744,under_development,94,91,83170000,healthcare_cluster
+PRC-0407,Mohammed Bin Zayed City,Z-HOS-02,hospitality,18361,vacant,62,62,49310000,marina_hotel
+PRC-0408,Al Khalidiyah,Z-MIX-05,mixed_use,24904,vacant,89,64,116400000,cultural_mixed_use
+PRC-0409,Mohammed Bin Zayed City,Z-COM-04,commercial,11650,under_development,69,55,36120000,innovation_offices
+PRC-0410,Al Shamkha,Z-HOS-05,hospitality,21800,vacant,64,57,48440000,marina_hotel
+PRC-0411,Corniche,Z-MIX-05,mixed_use,6370,vacant,90,78,51410000,cultural_mixed_use
+PRC-0412,Al Bahia,Z-MIX-03,mixed_use,12505,developed,68,74,40600000,transit_oriented_development
+PRC-0413,Zayed City,Z-RES-04,residential,25408,developed,57,61,80190000,sustainable_residential
+PRC-0414,Yas Island,Z-MIX-03,mixed_use,11135,under_development,98,52,49670000,marina_mixed_use
+PRC-0415,Al Ghadeer,Z-COM-04,commercial,9359,developed,63,61,17450000,entertainment_retail
+PRC-0416,Mohammed Bin Zayed City,Z-HOS-01,hospitality,21964,developed,72,61,58660000,resort_hospitality
+PRC-0417,Zayed City,Z-RES-04,residential,23176,vacant,69,85,70860000,sustainable_residential
+PRC-0418,Al Ghadeer,Z-RES-04,residential,23310,developed,53,83,60320000,sustainable_residential
+PRC-0419,Danet Abu Dhabi,Z-MIX-05,mixed_use,11876,vacant,84,74,48220000,transit_oriented_development
+PRC-0420,Al Zahiyah,Z-RES-03,residential,16256,vacant,76,88,51620000,affordable_housing
+PRC-0421,Zayed City,Z-RES-04,residential,15460,developed,77,77,47060000,mid_rise_residential
+PRC-0422,Al Shamkha,Z-IND-03,industrial,40959,vacant,67,79,105680000,light_logistics
+PRC-0423,Al Ghadeer,Z-CMU-03,community,14082,developed,58,59,23820000,healthcare_cluster
+PRC-0424,Zayed City,Z-MIX-01,mixed_use,12091,developed,72,66,35240000,premium_mixed_use
+PRC-0425,Al Shamkha,Z-COM-05,commercial,7768,under_development,66,87,18930000,innovation_offices
+PRC-0426,Al Khalidiyah,Z-HOS-01,hospitality,5516,under_development,85,77,22840000,marina_hotel
+PRC-0427,Yas Island,Z-MIX-01,mixed_use,10768,vacant,88,81,40280000,marina_mixed_use
+PRC-0428,Al Raha Beach,Z-CMU-01,community,16425,under_development,93,80,91200000,healthcare_cluster
+PRC-0429,Al Zahiyah,Z-HOS-01,hospitality,19817,developed,90,53,71470000,marina_hotel
+PRC-0430,Corniche,Z-RES-04,residential,15070,developed,88,83,105150000,beachfront_residential
+PRC-0431,Zayed City,Z-CMU-01,community,13380,vacant,72,76,34400000,healthcare_cluster
+PRC-0432,Mohammed Bin Zayed City,Z-RES-02,residential,9658,developed,72,81,24210000,affordable_housing
+PRC-0433,Masdar City,Z-CMU-02,community,12402,developed,88,75,40880000,civic_center
+PRC-0434,Al Reem Island,Z-COM-05,commercial,9463,vacant,91,68,48230000,entertainment_retail
+PRC-0435,Yas Island,Z-MIX-04,mixed_use,19772,vacant,88,74,112450000,marina_mixed_use
+PRC-0436,Al Reef,Z-RES-04,residential,16134,under_development,54,84,60200000,high_rise_residential
+PRC-0437,Al Bateen,Z-COM-03,commercial,7331,under_development,96,87,34510000,coworking_offices
+PRC-0438,Al Maqta,Z-HOS-02,hospitality,8786,vacant,83,82,27250000,resort_hospitality
+PRC-0439,Saadiyat Island,Z-HOS-02,hospitality,9504,vacant,100,55,68150000,resort_hospitality
+PRC-0440,Danet Abu Dhabi,Z-MIX-01,mixed_use,8595,reserved,86,84,38310000,premium_mixed_use
+PRC-0441,Al Shamkha,Z-RES-02,residential,22991,developed,57,57,59590000,low_rise_residential
+PRC-0442,Al Shamkha,Z-CMU-05,community,8464,developed,63,89,15530000,school_campus
+PRC-0443,Al Bateen,Z-IND-03,industrial,23342,vacant,91,83,186720000,warehousing_hub
+PRC-0444,Corniche,Z-IND-04,industrial,13156,developed,89,82,86440000,light_logistics
+PRC-0445,Al Bahia,Z-MIX-05,mixed_use,12675,vacant,60,80,27350000,premium_mixed_use
+PRC-0446,Masdar City,Z-IND-05,industrial,27023,under_development,91,86,175830000,ev_assembly_facility
+PRC-0447,Saadiyat Island,Z-IND-03,industrial,19389,under_development,83,82,109520000,warehousing_hub
+PRC-0448,Masdar City,Z-MIX-05,mixed_use,28594,vacant,97,57,116500000,waterfront_mixed_use
+PRC-0449,Al Reem Island,Z-IND-01,industrial,13661,vacant,77,91,76790000,warehousing_hub
+PRC-0450,Al Maryah Island,Z-COM-05,commercial,7089,vacant,91,92,42700000,innovation_offices
+PRC-0451,Saadiyat Island,Z-RES-03,residential,19199,reserved,87,76,141360000,sustainable_residential
+PRC-0452,Al Reef,Z-COM-01,commercial,6252,under_development,63,85,16620000,financial_offices
+PRC-0453,Al Shamkha,Z-MIX-01,mixed_use,15339,vacant,55,92,47250000,cultural_mixed_use
+PRC-0454,Yas Island,Z-RES-01,residential,7250,vacant,80,55,36670000,mid_rise_residential
+PRC-0455,Al Zahiyah,Z-CMU-01,community,11868,developed,80,74,47000000,civic_center
+PRC-0456,Al Shamkha,Z-HOS-04,hospitality,16090,developed,67,64,42820000,urban_boutique_hotel
+PRC-0457,Al Maryah Island,Z-CMU-01,community,14665,developed,85,57,92270000,university_expansion
+PRC-0458,Khalifa City,Z-COM-03,commercial,10337,developed,72,83,46240000,innovation_offices
+PRC-0459,Al Reem Island,Z-RES-01,residential,25165,developed,100,56,124500000,mid_rise_residential
+PRC-0460,Al Khalidiyah,Z-COM-01,commercial,7166,developed,93,100,27740000,entertainment_retail
+PRC-0461,Khalifa City,Z-RES-02,residential,18924,vacant,76,77,79540000,beachfront_residential
+PRC-0462,Zayed City,Z-CMU-01,community,16960,developed,66,64,58220000,university_expansion
+PRC-0463,Al Maryah Island,Z-COM-03,commercial,4292,developed,94,84,38510000,neighborhood_retail
+PRC-0464,Khalifa City,Z-IND-04,industrial,41116,vacant,61,50,112560000,cleantech_manufacturing
+PRC-0465,Al Zahiyah,Z-HOS-01,hospitality,13391,developed,71,62,34860000,resort_hospitality
+PRC-0466,Saadiyat Island,Z-CMU-05,community,15056,developed,92,99,100160000,university_expansion
+PRC-0467,Al Bateen,Z-COM-01,commercial,5898,developed,91,75,41450000,neighborhood_retail
+PRC-0468,Mussafah,Z-COM-02,commercial,11434,vacant,56,82,19010000,financial_offices
+PRC-0469,Mohammed Bin Zayed City,Z-RES-03,residential,18514,developed,58,72,57770000,beachfront_residential
+PRC-0470,Al Reem Island,Z-RES-05,residential,13731,vacant,83,66,70550000,beachfront_residential
+PRC-0471,Al Maqta,Z-COM-03,commercial,6854,vacant,71,64,28120000,innovation_offices
+PRC-0472,Al Bahia,Z-IND-02,industrial,18635,vacant,60,65,50930000,warehousing_hub
+PRC-0473,Corniche,Z-COM-02,commercial,9807,vacant,91,82,45280000,financial_offices
+PRC-0474,Danet Abu Dhabi,Z-RES-05,residential,18953,vacant,81,65,97480000,high_rise_residential
+PRC-0475,Al Bahia,Z-IND-01,industrial,16243,vacant,58,75,37680000,cleantech_manufacturing
+PRC-0476,Khalifa City,Z-RES-03,residential,17729,developed,59,60,57920000,sustainable_residential
+PRC-0477,Masdar City,Z-COM-04,commercial,3922,developed,94,84,14290000,neighborhood_retail
+PRC-0478,Corniche,Z-HOS-03,hospitality,8563,under_development,88,86,47830000,urban_boutique_hotel
+PRC-0479,Danet Abu Dhabi,Z-CMU-05,community,10079,reserved,77,68,39310000,civic_center
+PRC-0480,Al Reem Island,Z-MIX-02,mixed_use,14112,reserved,85,71,90360000,marina_mixed_use
+PRC-0481,Mussafah,Z-COM-02,commercial,9574,developed,62,72,20360000,coworking_offices
+PRC-0482,Al Reef,Z-COM-04,commercial,8945,under_development,71,46,16800000,financial_offices
+PRC-0483,Mussafah,Z-MIX-04,mixed_use,15230,developed,54,76,36440000,marina_mixed_use
+PRC-0484,Corniche,Z-HOS-01,hospitality,14601,vacant,92,70,78410000,marina_hotel
+PRC-0485,Al Reef,Z-RES-01,residential,7945,vacant,63,100,18100000,mid_rise_residential
+PRC-0486,Al Raha Beach,Z-HOS-04,hospitality,9044,vacant,87,92,37270000,urban_boutique_hotel
+PRC-0487,Al Maqta,Z-IND-03,industrial,37720,vacant,62,61,130790000,ev_assembly_facility
+PRC-0488,Al Shamkha,Z-COM-05,commercial,7481,developed,71,63,18990000,financial_offices
+PRC-0489,Al Ghadeer,Z-MIX-05,mixed_use,12710,developed,54,100,36280000,premium_mixed_use
+PRC-0490,Al Zahiyah,Z-RES-04,residential,6136,vacant,87,61,23550000,beachfront_residential
+PRC-0491,Saadiyat Island,Z-COM-01,commercial,5110,developed,81,84,32110000,entertainment_retail
+PRC-0492,Al Reef,Z-MIX-02,mixed_use,12590,under_development,58,68,28230000,cultural_mixed_use
+PRC-0493,Al Zahiyah,Z-COM-05,commercial,9235,vacant,80,64,21930000,coworking_offices
+PRC-0494,Al Reem Island,Z-MIX-02,mixed_use,13463,developed,91,59,83600000,premium_mixed_use
+PRC-0495,Al Khalidiyah,Z-MIX-03,mixed_use,11765,under_development,85,60,61900000,marina_mixed_use
+PRC-0496,Al Zahiyah,Z-COM-01,commercial,5748,developed,84,69,22590000,entertainment_retail
+PRC-0497,Mohammed Bin Zayed City,Z-RES-03,residential,9555,developed,60,68,32220000,affordable_housing
+PRC-0498,Al Bateen,Z-MIX-01,mixed_use,19013,vacant,100,73,105670000,waterfront_mixed_use
+PRC-0499,Al Shamkha,Z-HOS-03,hospitality,18717,developed,51,87,45030000,resort_hospitality
+PRC-0500,Al Zahiyah,Z-HOS-04,hospitality,14610,developed,87,69,61570000,resort_hospitality
+PRC-0501,Danet Abu Dhabi,Z-RES-02,residential,20429,under_development,84,87,102630000,sustainable_residential
+PRC-0502,Saadiyat Island,Z-HOS-03,hospitality,5992,developed,90,85,41200000,marina_hotel
+PRC-0503,Khalifa City,Z-HOS-04,hospitality,9019,vacant,70,74,23440000,resort_hospitality
+PRC-0504,Danet Abu Dhabi,Z-MIX-03,mixed_use,12772,reserved,77,49,47080000,transit_oriented_development
+PRC-0505,Al Ghadeer,Z-CMU-02,community,10983,developed,68,73,23940000,healthcare_cluster
+PRC-0506,Danet Abu Dhabi,Z-MIX-03,mixed_use,23317,under_development,74,84,106640000,marina_mixed_use
+PRC-0507,Al Maqta,Z-IND-03,industrial,29261,under_development,71,81,93080000,light_logistics
+PRC-0508,Al Maqta,Z-HOS-01,hospitality,16010,developed,70,57,51560000,marina_hotel
+PRC-0509,Al Khalidiyah,Z-COM-03,commercial,6998,vacant,89,77,36790000,coworking_offices
+PRC-0510,Al Raha Beach,Z-COM-02,commercial,6404,developed,89,56,27900000,entertainment_retail
+PRC-0511,Danet Abu Dhabi,Z-IND-02,industrial,43810,vacant,81,75,178510000,cleantech_manufacturing
+PRC-0512,Al Bahia,Z-IND-02,industrial,37038,under_development,67,84,72580000,ev_assembly_facility
+PRC-0513,Al Maqta,Z-COM-03,commercial,6242,vacant,73,58,16780000,entertainment_retail
+PRC-0514,Mohammed Bin Zayed City,Z-RES-01,residential,14200,developed,75,45,65810000,beachfront_residential
+PRC-0515,Al Maqta,Z-MIX-02,mixed_use,17436,vacant,76,91,46750000,cultural_mixed_use
+PRC-0516,Al Zahiyah,Z-COM-01,commercial,8910,under_development,79,63,30320000,entertainment_retail
+PRC-0517,Masdar City,Z-IND-01,industrial,17593,developed,93,47,66230000,ev_assembly_facility
+PRC-0518,Al Khalidiyah,Z-RES-02,residential,23717,vacant,89,54,106730000,high_rise_residential
+PRC-0519,Khalifa City,Z-CMU-03,community,10735,developed,74,62,56370000,school_campus
+PRC-0520,Saadiyat Island,Z-IND-02,industrial,18468,developed,90,99,105320000,ev_assembly_facility
+PRC-0521,Mussafah,Z-RES-01,residential,21657,under_development,68,81,38320000,sustainable_residential
+PRC-0522,Masdar City,Z-RES-01,residential,16169,vacant,96,81,89240000,sustainable_residential
+PRC-0523,Mohammed Bin Zayed City,Z-HOS-05,hospitality,21535,vacant,76,71,88140000,urban_boutique_hotel
+PRC-0524,Zayed City,Z-RES-02,residential,20242,developed,61,54,64770000,mid_rise_residential
+PRC-0525,Al Bahia,Z-CMU-05,community,13450,developed,60,55,42440000,healthcare_cluster
+PRC-0526,Al Zahiyah,Z-RES-05,residential,12131,developed,88,74,41960000,high_rise_residential
+PRC-0527,Al Khalidiyah,Z-COM-04,commercial,7090,developed,79,87,25350000,neighborhood_retail
+PRC-0528,Al Bahia,Z-CMU-03,community,10991,under_development,61,60,43130000,school_campus
+PRC-0529,Al Reef,Z-COM-05,commercial,8288,developed,65,70,26300000,entertainment_retail
+PRC-0530,Al Bahia,Z-RES-02,residential,20310,vacant,58,76,45710000,mid_rise_residential
+PRC-0531,Yas Island,Z-RES-01,residential,14696,reserved,85,87,70220000,beachfront_residential
+PRC-0532,Khalifa City,Z-MIX-05,mixed_use,6654,vacant,62,74,21910000,cultural_mixed_use
+PRC-0533,Corniche,Z-HOS-04,hospitality,9350,developed,100,69,52730000,marina_hotel
+PRC-0534,Corniche,Z-COM-01,commercial,10148,under_development,97,80,64350000,innovation_offices
+PRC-0535,Al Maqta,Z-MIX-03,mixed_use,17884,under_development,72,50,58540000,transit_oriented_development
+PRC-0536,Khalifa City,Z-RES-01,residential,6420,developed,60,90,21850000,mid_rise_residential
+PRC-0537,Al Maqta,Z-RES-04,residential,25926,vacant,72,80,80400000,affordable_housing
+PRC-0538,Al Bahia,Z-IND-02,industrial,43047,vacant,77,59,147340000,cleantech_manufacturing
+PRC-0539,Mussafah,Z-IND-05,industrial,26997,under_development,60,67,70410000,light_logistics
+PRC-0540,Zayed City,Z-MIX-03,mixed_use,26041,developed,68,73,59510000,waterfront_mixed_use
+PRC-0541,Al Khalidiyah,Z-CMU-02,community,13569,vacant,84,71,79430000,healthcare_cluster
+PRC-0542,Al Reef,Z-HOS-02,hospitality,21441,developed,72,80,38680000,resort_hospitality
+PRC-0543,Al Reem Island,Z-RES-01,residential,12484,developed,69,90,46980000,affordable_housing
+PRC-0544,Masdar City,Z-RES-04,residential,25791,under_development,87,56,111980000,beachfront_residential
+PRC-0545,Al Maryah Island,Z-RES-04,residential,19217,reserved,92,56,128210000,mid_rise_residential
+PRC-0546,Al Ghadeer,Z-HOS-03,hospitality,6855,vacant,61,91,18880000,urban_boutique_hotel
+PRC-0547,Khalifa City,Z-COM-04,commercial,9582,under_development,68,75,35180000,financial_offices
+PRC-0548,Danet Abu Dhabi,Z-RES-02,residential,23873,vacant,82,59,102820000,high_rise_residential
+PRC-0549,Zayed City,Z-COM-05,commercial,7186,developed,76,73,21750000,innovation_offices
+PRC-0550,Al Bateen,Z-COM-05,commercial,8726,developed,93,46,56760000,innovation_offices
+PRC-0551,Al Maryah Island,Z-IND-02,industrial,25352,reserved,89,75,162130000,cleantech_manufacturing
+PRC-0552,Khalifa City,Z-IND-05,industrial,20395,reserved,79,89,53920000,warehousing_hub
+PRC-0553,Mohammed Bin Zayed City,Z-MIX-02,mixed_use,15301,developed,66,87,30920000,cultural_mixed_use
+PRC-0554,Al Maryah Island,Z-MIX-01,mixed_use,7136,under_development,99,73,40430000,cultural_mixed_use
+PRC-0555,Al Khalidiyah,Z-MIX-03,mixed_use,13378,developed,85,47,44730000,waterfront_mixed_use
+PRC-0556,Al Reef,Z-IND-01,industrial,19285,developed,65,89,59180000,ev_assembly_facility
+PRC-0557,Al Bahia,Z-MIX-04,mixed_use,11832,developed,43,76,27380000,cultural_mixed_use
+PRC-0558,Saadiyat Island,Z-CMU-02,community,9542,vacant,85,58,60050000,healthcare_cluster
+PRC-0559,Al Reem Island,Z-RES-02,residential,6496,reserved,86,73,43220000,mid_rise_residential
+PRC-0560,Al Bateen,Z-RES-01,residential,15420,under_development,94,73,73220000,sustainable_residential
+PRC-0561,Zayed City,Z-IND-05,industrial,43291,vacant,72,65,152080000,light_logistics
+PRC-0562,Al Reem Island,Z-MIX-03,mixed_use,19592,developed,81,82,102780000,premium_mixed_use
+PRC-0563,Mohammed Bin Zayed City,Z-COM-03,commercial,5955,under_development,83,57,14650000,neighborhood_retail
+PRC-0564,Al Reem Island,Z-HOS-02,hospitality,13222,developed,86,88,53750000,urban_boutique_hotel
+PRC-0565,Al Bahia,Z-HOS-05,hospitality,5890,under_development,65,64,11060000,marina_hotel
+PRC-0566,Al Khalidiyah,Z-HOS-02,hospitality,15069,vacant,87,82,97520000,resort_hospitality
+PRC-0567,Mohammed Bin Zayed City,Z-RES-02,residential,8400,vacant,66,89,16310000,beachfront_residential
+PRC-0568,Al Raha Beach,Z-HOS-04,hospitality,10274,vacant,85,64,49240000,resort_hospitality
+PRC-0569,Al Khalidiyah,Z-RES-05,residential,23654,developed,87,72,147500000,beachfront_residential
+PRC-0570,Mohammed Bin Zayed City,Z-HOS-04,hospitality,15923,developed,63,77,37420000,urban_boutique_hotel
+PRC-0571,Khalifa City,Z-IND-03,industrial,22828,vacant,69,58,69110000,cleantech_manufacturing
+PRC-0572,Masdar City,Z-HOS-03,hospitality,14283,developed,94,66,67760000,urban_boutique_hotel
+PRC-0573,Mohammed Bin Zayed City,Z-MIX-01,mixed_use,23177,developed,70,43,92920000,waterfront_mixed_use
+PRC-0574,Al Reef,Z-MIX-04,mixed_use,7470,vacant,69,84,17010000,cultural_mixed_use
+PRC-0575,Saadiyat Island,Z-COM-04,commercial,7071,developed,78,56,49820000,innovation_offices
+PRC-0576,Saadiyat Island,Z-HOS-05,hospitality,11642,under_development,84,46,82540000,resort_hospitality
+PRC-0577,Al Bateen,Z-COM-03,commercial,5183,under_development,87,90,35680000,financial_offices
+PRC-0578,Al Shamkha,Z-COM-02,commercial,3560,reserved,72,70,8990000,financial_offices
+PRC-0579,Al Maqta,Z-MIX-04,mixed_use,8477,vacant,76,90,29630000,transit_oriented_development
+PRC-0580,Saadiyat Island,Z-RES-05,residential,10685,developed,89,77,70720000,sustainable_residential
+PRC-0581,Al Shamkha,Z-RES-02,residential,17357,developed,49,78,33900000,beachfront_residential
+PRC-0582,Khalifa City,Z-RES-03,residential,6929,developed,74,73,24510000,high_rise_residential
+PRC-0583,Masdar City,Z-IND-04,industrial,13182,vacant,84,42,38270000,cleantech_manufacturing
+PRC-0584,Danet Abu Dhabi,Z-COM-04,commercial,4458,vacant,78,75,18080000,financial_offices
+PRC-0585,Danet Abu Dhabi,Z-IND-04,industrial,16233,vacant,81,45,46060000,ev_assembly_facility
+PRC-0586,Masdar City,Z-COM-05,commercial,4390,vacant,95,74,14870000,neighborhood_retail
+PRC-0587,Al Zahiyah,Z-IND-05,industrial,42665,under_development,69,58,152030000,light_logistics
+PRC-0588,Zayed City,Z-MIX-05,mixed_use,14438,developed,67,95,35180000,waterfront_mixed_use
+PRC-0589,Al Reef,Z-RES-01,residential,25607,reserved,56,84,56320000,affordable_housing
+PRC-0590,Khalifa City,Z-HOS-04,hospitality,8485,reserved,77,65,23270000,resort_hospitality
+PRC-0591,Yas Island,Z-HOS-02,hospitality,14584,reserved,99,77,79900000,urban_boutique_hotel
+PRC-0592,Mohammed Bin Zayed City,Z-COM-03,commercial,5474,developed,74,71,12900000,coworking_offices
+PRC-0593,Al Bahia,Z-COM-03,commercial,8572,developed,68,74,25420000,coworking_offices
+PRC-0594,Saadiyat Island,Z-MIX-04,mixed_use,6212,under_development,97,69,41390000,marina_mixed_use
+PRC-0595,Al Maqta,Z-MIX-02,mixed_use,25744,developed,75,40,92010000,transit_oriented_development
+PRC-0596,Al Maryah Island,Z-MIX-05,mixed_use,23413,under_development,90,66,213630000,premium_mixed_use
+PRC-0597,Corniche,Z-COM-03,commercial,9218,vacant,91,63,54550000,coworking_offices
+PRC-0598,Al Shamkha,Z-RES-02,residential,25171,developed,61,68,49680000,mid_rise_residential
+PRC-0599,Al Bateen,Z-MIX-03,mixed_use,6978,developed,91,79,46110000,premium_mixed_use
+PRC-0600,Mohammed Bin Zayed City,Z-MIX-04,mixed_use,23831,under_development,78,67,49510000,cultural_mixed_use
