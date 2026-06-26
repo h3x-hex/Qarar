@@ -1,0 +1,107 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #fafaf7;
+  --surface: #ffffff;
+  --cardAlt: #f6f4ed;
+  --text: #0b0b0a;
+  --text2: #6c6a62;
+  --text3: #9a988f;
+  --border: #e6e3da;
+  --hair: #efede5;
+  --gold: #b0892b;
+  --goldDeep: #8c6a1c;
+  --goldTint: #f4e9c9;
+  --onGold: #ffffff;
+}
+
+.dark {
+  --bg: #0a0a0a;
+  --surface: #111111;
+  --cardAlt: #161616;
+  --text: #f4f2ea;
+  --text2: #9a988f;
+  --text3: #6e6c65;
+  --border: #242422;
+  --hair: #1e1e1c;
+  --gold: #f0c24b;
+  --goldDeep: #eab94e;
+  --goldTint: #211a06;
+  --onGold: #0a0a0a;
+}
+
+html,
+body {
+  background: var(--bg);
+  color: var(--text);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* MapLibre attribution legibility */
+.maplibregl-ctrl-attrib {
+  font-size: 10px;
+}
+
+.maplibregl-popup-content {
+  padding: 0 !important;
+  background: transparent !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+}
+
+/* Keep the detail popup above district name tags (which are Markers, z-index up to 2) */
+.maplibregl-popup,
+.qarar-map-popup {
+  z-index: 20 !important;
+}
+
+.qarar-map-popup .maplibregl-popup-content {
+  padding: 12px 14px !important;
+  background: color-mix(in srgb, var(--surface) 72%, transparent) !important;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid color-mix(in srgb, var(--border) 85%, transparent) !important;
+  border-radius: 12px !important;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1) !important;
+  /* MapLibre caps popup-content at 240px inline; let the 280px card fit. */
+  max-width: 320px !important;
+  width: max-content !important;
+}
+
+.qarar-map-popup .maplibregl-popup-tip {
+  border-top-color: color-mix(in srgb, var(--surface) 72%, transparent) !important;
+}
+
+.qarar-map-popup .maplibregl-popup-close-button {
+  font-size: 18px;
+  color: var(--text3);
+  padding: 4px 8px;
+  right: 2px;
+  top: 2px;
+}
+
+.qarar-map-popup .maplibregl-popup-close-button:hover {
+  color: var(--text);
+  background: transparent;
+}
+
+.num-input {
+  width: 100%;
+  margin-top: 0.375rem;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 0.5rem 0.75rem;
+  font-family: var(--font-plex-mono), monospace;
+  font-size: 13px;
+  color: var(--text);
+  outline: none;
+}
+.num-input:focus {
+  border-color: var(--gold);
+}
